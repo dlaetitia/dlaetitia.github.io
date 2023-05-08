@@ -1,0 +1,83 @@
+body{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 15px;
+}
+
+body, ul {
+    margin:0;
+    padding: 0;
+}
+
+h1, h2, .skills-list{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+img {
+    /* limit the width of the image 
+    to 100% of the container */
+    max-width: 100%;
+}
+
+nav{
+    background-color: #DBEBF4;
+    /* fix the navigation banner */
+    position: fixed;
+    /* keep it on top of everything */
+    z-index: 1;
+    /* Takes the whole width */
+    width: 100%;
+}
+
+nav ul li {
+    /* Only apply this to the ul list that appears in the nav */
+    display: inline-block;
+     /* add space around the elements of the nav 
+     0 refers to top and bottom
+     15 px refers to left and right*/
+    margin:0 15px;
+    padding: 0;
+    /* put the elements in upercase and have a bigger spacing */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    font-size: 14px;
+}
+
+nav ul {
+    /* auto means that it will automatically be adjusted and center the elements */
+    margin: 0 auto;
+    /* center the navigation on top */
+    text-align: center;
+    /* make the navigation a bit bigger */
+    padding: 15px; 
+}
+
+header { 
+    /* takes the first 70px */
+    top: 110px;
+    position: relative;
+    margin-bottom: 200px;
+}
+
+h1 {
+    font-size: 100px;
+    line-height: 100%;
+}
+
+.button {
+    border: 1px solid black;
+    text-decoration: none;
+    color:black;
+    /* 10px is for up and down
+    30 px is for left and right */
+    padding: 10px 30px;
+    margin-top: 40px;
+    /* make it possible to change the elements of around the text */
+    display: inline-block;
+    border-radius:20px;
+
+}
+
+figcaption {
+    font-size: 10px;
+}
