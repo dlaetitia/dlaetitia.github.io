@@ -1,0 +1,43 @@
+/* css styles */
+
+/* Flex container for two columns */
+.container {
+    display: flex;
+    align-items: flex-start; /* Align items to the top */
+    gap: 20px; /* Space between columns, adjust as needed */
+}
+
+/* Style for the photo column */
+.photo {
+    flex: 1;
+    max-width: 250px; /* Adjust as needed */
+}
+
+.photo img {
+    width: 100%; /* Makes sure the image fits the column */
+    height: auto; /* Keeps the aspect ratio */
+    border-radius: 50%; /* Keeps the image circular */
+}
+
+/* Style for the text column */
+.text {
+    flex: 2; /* Takes up more space compared to the photo column */
+    max-width: 600px; /* Adjust as needed */
+}
+
+
+
+/*Original use of the style*/
+.img-circle {
+    width: 250px; /* Adjust size as needed */
+    height: 250px;
+    border-radius: 50%; /* Makes the image a circle */
+    float: left; /* Aligns image to the left */
+    margin-right: 20px; /* Space between image and text */
+}
+
+.text-right {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 600px; /* Adjust as needed */
+}
