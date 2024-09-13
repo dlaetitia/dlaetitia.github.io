@@ -6,21 +6,21 @@ css: styles.css
 
 <div class="container">
 
-<div class="photo">
-
-<img src="images/CV_pic.png" class="img-circle" alt="My Photo">
-
-</div>
+::: photo
+<img src="images/CV_pic.png" alt="My Photo" class="img-circle"/>
+:::
 
 <div class="text">
 
 <h1>Biography</h1>
 
-<p>I’m a CNRS postdoctoral fellow at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN laboratory</a> in Paris.
+<p>
+
+I’m a CNRS postdoctoral fellow at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN laboratory</a> in Paris.
 
 <p>My research is .... I am particularly interested in ....</p>
 
-<p>Welcome to my personal website where you’ll find my CV, scientific and illustration projects. Introduction with photo and links to Google Scholar, ORCID LinkedIn, Instagram, email.</p>
+<p>Welcome to my personal website where you’ll find my CV, scientific and illustration projects.</p>
 
 </div>
 

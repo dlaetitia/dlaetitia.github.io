@@ -9,6 +9,8 @@ website:
         href: index.qmd
       - text: Experience
         href: experience.qmd
+      - text: Publications
+        href: publications.qmd
       - text: Coding
         href: coding.qmd
       - text: Illustration
@@ -25,6 +27,6 @@ website:
 
 format:
   html:
-    theme: litera  # Optional: Choose a theme
+    theme: cosmo  # Optional: Choose a theme
     css: styles.css  # Optional: Add custom CSS for further styling
 
