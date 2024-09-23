@@ -39,7 +39,7 @@ Funding: 50% <a href="https://triatlas.w.uib.no/" target="_blank">H2020 European
 
 ::: experience-item
 ::: experience-title
-Master 2 internship on Global Distribution of Macroplankton Biomass Estimated by In Situ Imaging
+Master 2 internship: Global Distribution of Macroplankton Biomass Estimated by In Situ Imaging
 :::
 
 ::: experience-date
@@ -68,290 +68,102 @@ LECOB UMR 8222, Banyuls sur mer, Sorbonne Université
 
 ## Education
 
-::: experience-item
-::: experience-title
-FIDLE Introduction to Deep Learning, CNRS
-:::
-
-::: experience-date
-2022 (17h)
-:::
+-   <strong>2022: FIDLE Introduction to Deep Learning, CNRS (17h)</strong>
 
 Convolutional neural networks, evaluation of regression and classification models, sequential and temporal data. Theory and practice (Python).
-:::
 
-::: experience-item
-::: experience-title
-Ocean Litteracy, Sorbonne Université and IMBRSea
-:::
+-   <strong>2022: Ocean Litteracy, Sorbonne Université and IMBRSea (3 weeks)</strong>
 
-::: experience-date
-2022 (3 weeks)
-:::
+Communicate with different types of audiences (age, profession) using innovative learning methods.
 
-Communicate with different types of audiences (age, profession) using innovative learning methods."
-:::
-
-::: experience-item
-::: experience-title
-Machine Learning 4 Ocean (ML4Ocean), Sorbonne Université
-:::
-
-::: experience-date
-2021 (1 week)
-:::
+-   <strong>2021: Machine Learning 4 Ocean (ML4Ocean), Sorbonne Université (1 week)</strong>
 
 Summer school on the use of artificial intelligence tools and machine learning in oceanography. Theory and practice (Python).
-:::
 
-::: experience-item
-::: experience-title
-Master degree of Marine Sciences, Sorbonne Université
-:::
-
-::: experience-date
-2018 - 2020
-:::
+-   <strong>2018 - 2020: Master degree of Marine Sciences, Sorbonne Université</strong>
 
 Functioning of marine ecosystems and global changes course obtained with honors.
 
 Functional ecology, oceanography, modeling, data processing.
-:::
 
-::: experience-item
-::: experience-title
-Multivariate analyzes for marine ecology, Sorbonne Université
-:::
-
-::: experience-date
-2018 (3 weeks)
-:::
+-   <strong>2018: Multivariate analyzes for marine ecology, Sorbonne Université (3 weeks)</strong>
 
 Environmental data analysis methodologies. Theoretical and practical (R).
-:::
 
-::: experience-item
-::: experience-title
-Bachelor of Science in Life and Health, Université de Nice
-:::
-
-::: experience-date
-2015 - 2018
-:::
+-   <strong>2015 - 2018: Bachelor of Science in Life and Health, Université de Nice </strong>
 
 Biology of Organisms and Ecosystems course, obtained with honors.
 
 Ecology, diversity of organisms and ecosystems, statistics, genetics.
-:::
 
 ## Awards and honors
 
-::: experience-item
-::: experience-title
-Thesis Scientific Publication Award
-:::
+-   <strong>December 2023:</strong> <a href="https://institut-ocean.sorbonne-universite.fr/actualites-institut-de-locean/prix-2023-de-la-publication-scientifique-fondation-de-la-mer-institut" target="_blank">Thesis Scientific Publication Award</a>, Foundation of the Sea and Ocean Institute of the Sorbonne University Alliance
 
-::: experience-date
-December 2023
-:::
+-   <strong>2020 - 2023:</strong> Half PhD Scholarship, *Doctoral school 129, Sorbonne University*
 
-Awarded by the Foundation of the Sea and the Ocean Institute of the Sorbonne University Alliance
-:::
+-   <strong>September 2022:</strong> 2nd Place for best poster, *LOV laboratory seminar*
 
-::: experience-item
-::: experience-title
-2nd Place for Best Poster
-:::
-
-::: experience-date
-September 2022
-:::
-
-LOV laboratory seminar
-:::
-
-::: experience-item
-::: experience-title
-2nd Place for Best Poster
-:::
-
-::: experience-date
-September 2021
-:::
-
-General Assembly of the European TRIATLAS H2020 project
-:::
-
-::: experience-item
-::: experience-title
-Half PhD Scholarship
-:::
-
-::: experience-date
-2020-2023
-:::
-
-Doctoral school 129 of Sorbonne University
-:::
+-   <strong>September 2021:</strong> 2nd Place for best poster, *TRIATLAS H2020 General Assembly*
 
 ## University Services
 
-::: experience-item
-::: experience-title
-Co-organizer of "LOV Student Seminars"
-:::
+-   <strong>2020 - 2023: Co-organizer of "LOV Student Seminars"</strong>
 
-::: experience-date
-2020 - 2023
-:::
+Welcoming new PhD students and interns, organizing practice sessions for thesis defenses, and themed seminars
 
-<p>Welcoming new PhD students and interns, organizing practice sessions for thesis defenses, and themed seminars</p>
-:::
+-   <strong>2020 - 2023: PhD Student Representative in Various Councils</strong>
 
-::: experience-item
-::: experience-title
-PhD Student Representative in Various Councils
-:::
+    -   2022-2023: OSU-STAMAR Council
 
-::: experience-date
-2020 - 2023
-:::
+    -   2020-2023: Villefranche Oceanography Laboratory Council
 
-<ul>
+    -   2020-2022: Villefranche Institute of the Sea Council
 
-<li>2022-2023: OSU-STAMAR Council</li>
+Advocating for doctoral students' interests, contributing to decision-making processes, and fostering communication between students and laboratory.
 
-<li>2020-2023: Villefranche Oceanography Laboratory Council</li>
+-   <strong>2018 - 2020: Co-organizer of "Green Lunch"</strong>
 
-<li>2020-2022: Villefranche Institute of the Sea Council</li>
-
-<li>Participated in bi-annual meetings of each council to highlight student needs</li>
-
-</ul>
-:::
-
-::: experience-item
-::: experience-title
-Co-organizer of "Green Lunch"
-:::
-
-::: experience-date
-2018 - 2020
-:::
-
-<p>Weekly debates on environmental protection and sustainable development</p>
-:::
+Organising weekly debates on environmental protection and sustainable development
 
 ## Teaching and Communication
 
-::: experience-item
-::: experience-title
-Tara Ocean QLife Winter School, ENS, Paris
-:::
+-   <strong>May 2024 (6h): Green Ocean Course, ENSTA, Paris</strong>
 
-::: experience-date
-March 2024 (3.5h)
-:::
+Classes on Marine plankton diversity and biological invasions
 
-<p>Zooplankton distribution and in situ imaging data</p>
-:::
+-   <strong>March 2024 (3.5h): Tara Ocean QLife Winter School, ENS, Paris</strong>
 
-::: experience-item
-::: experience-title
-Green Ocean Course, ENSTA, Paris
-:::
+Practical work on zooplankton distribution and in situ imaging data on R
 
-::: experience-date
-May 2024 (6h)
-:::
+-   <strong>2022 - 2023 (128h): Teaching Assistant Contract, 128h, Sorbonne University</strong>
 
-<p>Marine plankton diversity and biological invasions</p>
-:::
+Lectures and practical work with undergraduate and master's students on modeling, taxonomy, and plankton diversity.
 
-::: experience-item
-::: experience-title
-Teaching Assistant Contract, 128h, Sorbonne University
-:::
+-   <strong>2023: Pint of Science</strong><a href="https://pintofscience.fr/event/plongee-dans-lunivers-insoupconne-de-la-mysterranee" target="_blank">"The Study of Zooplankton"</a>
 
-::: experience-date
-2022 - 2023
-:::
+Public outreach on zooplankton research
 
-<p>Lectures and practical work with undergraduate and master's students on modeling, taxonomy, and plankton diversity.</p>
-:::
+-   <strong>Co-supervision of Internships</strong>
 
-::: experience-item
-::: experience-title
-Pint of Science
-:::
+    -   Bachelor's 2nd Year: "Impact of the coastal front on phytoplankton dynamics in the Iroise Marine Natural Park", Sophia Mastouri, 2 weeks, 2024
 
-::: experience-date
-2023
-:::
+    -   Master's 2nd Year: "Impacts of zooplankton on the carbon cycle of the equatorial Atlantic", Hélène Thibault, 6 months, 2022
 
-<p><a href="https://pintofscience.fr/event/plongee-dans-lunivers-insoupconne-de-la-mysterranee" target="_blank">"The Study of Zooplankton"</a>: Public outreach on zooplankton research</p>
-:::
+    -   Master's 1st Year: "Study of zooplankton communities along the equatorial Atlantic", Hannah Haines, 2 months, 2021
 
-::: experience-item
-::: experience-title
-Co-supervision of Internships
-:::
+-   <strong>2021 - 2022: Participation in EXPORTS Project Communication Campaign</strong>
 
-::: experience-date
-2021 - 2024
-:::
+    -   <a href="https://cce.nasa.gov/ocean_biology_biogeochemistry/postcards.html" target="_blank">Campaign postcard to NASA</a>
 
-<ul>
+    -   <a href="https://divediscover.whoi.edu/" target="_blank">Interviews with the science communication team, Dive and Discover</a>
 
-<li>Bachelor's 2nd Year: "Impact of the coastal front on phytoplankton dynamics in the Iroise Marine Natural Park", Sophia Mastouri, 2 weeks, 2024</li>
+    -   <a href="https://blogs.nasa.gov/earthexpeditions/2021/06/22/imaging-the-ocean/" target="_blank">"Imaging the Ocean"</a>, blogpost for NASA Earth Expeditions
 
-<li>Master's 2nd Year: "Impacts of zooplankton on the carbon cycle of the equatorial Atlantic", Hélène Thibault, 6 months, 2022</li>
+-   <strong>2021 - 2023: Scientific Animator, Petits débrouillards</strong>
 
-<li>Master's 1st Year: "Study of zooplankton communities along the equatorial Atlantic", Hannah Haines, 2 months, 2021</li>
+Organized activities for various audiences, particularly on seas and coastlines.
 
-</ul>
-:::
+-   <strong>2020: Translation of PlanktonID website</strong>
 
-::: experience-item
-::: experience-title
-Participation in EXPORTS Project Communication Campaign
-:::
-
-::: experience-date
-2021-2022
-:::
-
-<ul>
-
-<li><a href="https://cce.nasa.gov/ocean_biology_biogeochemistry/postcards.html" target="_blank">Campaign postcard</a></li>
-
-<li><a href="https://divediscover.whoi.edu/" target="_blank">Interviews with the science communication team, Dive and Discover</a></li>
-
-<li><a href="https://blogs.nasa.gov/earthexpeditions/2021/06/22/imaging-the-ocean/" target="_blank">"Imaging the Ocean"</a>, blogpost for NASA Earth Expeditions</li>
-
-</ul>
-:::
-
-::: experience-item
-::: experience-title
-Scientific Animator, Petits débrouillards
-:::
-
-::: experience-date
-2021-2023
-:::
-
-<p>Organized activities for various audiences, particularly on seas and coastlines.</p>
-:::
-
-::: experience-item
-::: experience-title
-Translation of PlanktonID website
-:::
-
-::: experience-date
-2020
-:::
-
-<p>English to French translation: <a href="https://planktonid.geomar.de" target="_blank">PlanktonID Website</a></p>
-:::
+English to French translation: <a href="https://planktonid.geomar.de" target="_blank">PlanktonID Website</a>

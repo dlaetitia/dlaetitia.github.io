@@ -4,23 +4,71 @@ format: html
 css: styles.css
 ---
 
-<div class="container">
+<div class="photo-column">
 
+::: container
 ::: photo
-<img src="images/CV_pic.png" alt="My Photo" class="img-circle"/>
+![](images/CV_pic.png){.img-circle alt="My Photo" width="1500"}
+:::
 :::
 
-<div class="text">
+</div>
 
 <h1>Biography</h1>
 
-<p>
+<p>Welcome to my research portfolio!</p>
 
-I’m a CNRS postdoctoral fellow at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN laboratory</a> in Paris.
+<p>I am currently a CNRS postdoctoral researcher at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN</a> laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.</p>
 
-<p>My research is .... I am particularly interested in ....</p>
+<p>My research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.</p>
 
-<p>Welcome to my personal website where you’ll find my CV, scientific and illustration projects.</p>
+<div class="two-column-container">
+
+<div class="column">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>Machine Learning & Data Analysis</li>
+
+<li>Quantitative Imaging (UVP5, ZooScan)</li>
+
+<li>Oceanographic Data Processing</li>
+
+<li>Statistical Modeling</li>
+
+<li>Scientific Writing & Communication</li>
+
+<li>Programming (R, Python)</li>
+
+<li>GIS and Spatial Analysis</li>
+
+</ul>
+
+</div>
+
+<div class="column">
+
+<h2>Research Interests</h2>
+
+<ul>
+
+<li>Marine Plankton Ecology</li>
+
+<li>Biological Carbon Pump</li>
+
+<li>Ocean Biogeochemistry</li>
+
+<li>Climate Change Impacts on Marine Ecosystems</li>
+
+<li>Biodiversity and Ecosystem Functioning</li>
+
+<li>Marine Conservation</li>
+
+<li>Innovative Sampling Technologies in Oceanography</li>
+
+</ul>
 
 </div>
 

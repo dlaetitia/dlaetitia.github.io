@@ -5,6 +5,8 @@
     --background-color: #F8F9FA;
     --text-color: #212529;
     --light-gray: #E9ECEF;
+    --link-color: #0077B6;
+    --title-color: #33658A;
 }
 
 body {
@@ -12,7 +14,7 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--background-color);
-    font-size: 0.75rem;
+    font-size: 0.8rem;
 }
 
 /* Target main content area */
@@ -28,10 +30,16 @@ body .content-container {
 h1, h2, h3 {
     color: var(--primary-color);
     font-weight: 600;
+    margin-top: 0;
 }
 
 h1 {
     font-size: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+h1.title {
+    color: var(--title-color);
     margin-bottom: 1rem;
 }
 
@@ -44,6 +52,15 @@ h2 {
     color: #33658A;
 }
 
+h2_date {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    color: #212529;
+}
+
 .container {
     display: grid;
     grid-template-columns: 1fr 3fr;
@@ -52,11 +69,64 @@ h2 {
 
 .photo img {
     width: 100%;
-    max-width: 250px;
+    max-width: 350px;
     border-radius: 50%;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
+/* Home information */
+.content-container {
+    max-width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.two-column-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem auto 0 auto;
+}s
+
+.column {
+    flex-basis: 48%;
+}
+
+.column ul {
+    padding-left: 20px;
+}
+
+.bio-container {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 2rem;
+    align-items: flex-start;
+}
+
+.photo-column {
+    flex: 0 0 300px;
+}
+
+.profile-photo {
+    width: 100%;
+    height: auto;
+    padding-bottom: 100%; /* This creates a perfect square */
+    border-radius: 50%; /* This makes the square into a circle */
+    object-fit: cover; /* This ensures the image fills the circle without distortion */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    overflow: hidden; /* This ensures the image doesn't spill outside the circle */
+}
+
+
+@media (max-width: 768px) {
+    .photo-column {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+}
+
+/* CV styles */
 .experience-item {
     margin-bottom: 1.5rem;
     padding: 1.5rem;
@@ -108,3 +178,38 @@ h2 {
     margin-bottom: 0.3rem;
 }
 
+
+/* Publications styles */
+
+.publication-year {
+  margin-bottom: 2rem;
+}
+
+.publication-year h2 {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--light-gray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.publication-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.publication-list li {
+  margin-bottom: 1rem;
+  text-indent: -1em;
+  padding-left: 1em;
+  line-height: 1.6;
+}
+
+.publication-list a {
+  color: #0077B6;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.publication-list a:hover {
+  text-decoration: underline;
+}

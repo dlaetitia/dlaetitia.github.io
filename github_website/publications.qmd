@@ -1,41 +1,117 @@
 ## Publications
 
-::: experience-item
-::: experience-title
-Post-doctoral position: Machine learning and marine data
-:::
+<!-- 2024 -->
 
-::: experience-date
-March 2024 – Present
-:::
+<section class="publication-year">
 
-LOCEAN Laboratory, Paris
+<h2_date>2024</h2_date>
 
-Funding: <a href="https://neccton.eu/" target="_blank">NECCTON Horizon Europe project</a>
+<ul class="publication-list">
 
--   Spatial Distribution of Taxonomic and Functional Diversity of Zooplankton in the Iroise Sea Marine Park (<a href="https://parc-marin-iroise.fr/" target="_blank">PNMI</a>)
--   Use of quantitative imaging data (Zooscan), metabarcoding, environmental data and machine learning techniques
--   Investigation of the relationship between functional diversity and environmental factors
-:::
+<li>Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., <strong>Drago L</strong>., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, *PNAS* (submitted) <a href="https://eartharxiv.org/repository/view/7020/" target="_blank"><https://eartharxiv.org/repository/view/7020/></a></li>
 
-## Conference talks
+<li>Soviadan D., Dugenne M., <strong>Drago L</strong>., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining *in situ* and *ex situ* plankton image data to reconstruct zooplankton (\>1 mm) volume and mass distribution in the global ocean, *Journal of Plankton Research*, fbae046, <a href="https://doi.org/10.1093/plankt/fbae046" target="_blank"><https://doi.org/10.1093/plankt/fbae046></a></li>
 
-::: experience-item
-::: experience-title
-Thesis Scientific Publication Award
-:::
+<li>Thepault A., Rodrigues A., <strong>Drago L</strong>., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, *Proc. R. Soc.* B.29120241183 (2024) <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183" target="_blank"><https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183></a></li>
 
-::: experience-date
-December 2023
-:::
+<li>Laget M., <strong>Drago L</strong>., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. *Nat Commun* 15, 3341 (2024) <a href="https://www.nature.com/articles/s41467-024-47651-4" target="_blank"><https://doi.org/10.1038/s41467-024-47651-4></a></li>
 
-Awarded by the Foundation of the Sea and the Ocean Institute of the Sorbonne University Alliance
-:::
+</ul>
 
-## Conference talks
+</section>
+
+<!-- 2023 -->
+
+<section class="publication-year">
+
+<h2_date>2023</h2_date>
+
+<ul class="publication-list">
+
+<li>Dugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O'Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., <strong>Drago L</strong>., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, *Earth Syst. Sci. Data Discuss.* <a href="https://essd.copernicus.org/articles/16/2971/2024/" target="_blank"><https://essd.copernicus.org/articles/16/2971/2024/></a></li>
+
+</ul>
+
+</section>
+
+<!-- 2022 -->
+
+<section class="publication-year">
+
+<h2_date>2022</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, *Front. Mar. Sci*, <a href="https://doi.org/10.3389/fmars.2022.894372" target="_blank"><https://doi.org/10.3389/fmars.2022.894372></a></li>
+
+</ul>
+
+</section>
+
+## Conference talks and seminars
+
+<!-- 2024 -->
+
+<section class="publication-year">
+
+<h2_date>2024</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, April 2024, *SAMA conference*, École Normale Supérieure, Paris, France</li>
+
+<li><strong>Drago L</strong>., Ayata S-D, "Spatial distribution of zooplankton diversity", July 2024, NECCTON Early Career Oceanography Professionals meeting, online</li>
+
+</ul>
+
+</section>
+
+<section class="publication-year">
+
+<!-- 2023 -->
+
+<h2_date>2023</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>., **Drago L.**,Busseler K., Karp-Boss L., McDonnell A., Schröder S.-M., Siegel D., Stemmann L., Kiko R., North Atlantic biological pump dynamics in an eddy revealed via in situ imaging”, *ASLO Aquatic Science Meeting* *2023* (Palma de Majorque, Spain), session Biological Pump Dynamics and Trophic Transfer in Pelagic Ecosystems of the Atlantic,</li>
+
+</ul>
+
+</section>
+
+<!-- 2022 -->
+
+<h2_date>2022</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, Octobre 2022, *TRIATLAS H2020 General Assembly*, online</li>
+
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, Septembre 2022, *Séminaire du LOV*, online</li>
+
+</ul>
+
+</section>
+
+<!-- 2021 -->
+
+<h2_date>2021</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Image-based analysis of the Global Distribution of Zooplankton Biomass Through a Habitat Modeling Approach”, Septembre 2021, *TRIATLAS General assembly*, poster, online</li>
+
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of macroplankton biomass estimated by in situ imaging”, July 2021, *ASLO 2021 Meeting*, online</li>
+
+</ul>
+
+</section>
 
 ## Reports
 
-PhD, Master 2, Master 1
+<li><strong>PhD Thesis</strong>: Image-based global analysisof the biological carbon pump, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Pr. Lars Stemmann and Pr. Rainer Kiko, <a href="https://theses.hal.science/THESES-SU/tel-04483392v1" target="_blank"><https://theses.hal.science/THESES-SU/tel-04483392v1></a></li>
 
-Put the links
+<li><strong>Master 2 internship</strong>: Global distribution of macroplankton biomass estimated by in situ imaging, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Dr Jean-Olivier Irisson, Pr. Lars Stemmann and Dr. Thelma Panaïotis.</li>
+
+<li><strong>Master 1 internship</strong>: Numerical simulations of larval dispersal of *Paramuricea clavata*, Laboratoire d'Ecogéochimie des Environnements Benthiques (LECOB), Sorbonne Université, Supervised by Dr. Katell Guizien.</li>
