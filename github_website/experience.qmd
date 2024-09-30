@@ -126,7 +126,7 @@ Advocating for doctoral students' interests, contributing to decision-making pro
 
 Organising weekly debates on environmental protection and sustainable development
 
-## Teaching and Communication
+## Teaching
 
 -   <strong>May 2024 (6h): Green Ocean Course, ENSTA, Paris</strong>
 
@@ -140,10 +140,6 @@ Practical work on zooplankton distribution and in situ imaging data on R
 
 Lectures and practical work with undergraduate and master's students on modeling, taxonomy, and plankton diversity.
 
--   <strong>2023: Pint of Science</strong><a href="https://pintofscience.fr/event/plongee-dans-lunivers-insoupconne-de-la-mysterranee" target="_blank">"The Study of Zooplankton"</a>
-
-Public outreach on zooplankton research
-
 -   <strong>Co-supervision of Internships</strong>
 
     -   Bachelor's 2nd Year: "Impact of the coastal front on phytoplankton dynamics in the Iroise Marine Natural Park", Sophia Mastouri, 2 weeks, 2024
@@ -151,6 +147,16 @@ Public outreach on zooplankton research
     -   Master's 2nd Year: "Impacts of zooplankton on the carbon cycle of the equatorial Atlantic", Hélène Thibault, 6 months, 2022
 
     -   Master's 1st Year: "Study of zooplankton communities along the equatorial Atlantic", Hannah Haines, 2 months, 2021
+
+## Communication
+
+-   <strong>2023: Pint of Science </strong><a href="https://pintofscience.fr/event/plongee-dans-lunivers-insoupconne-de-la-mysterranee" target="_blank">"The Study of Zooplankton"</a>
+
+Public outreach on zooplankton research
+
+-   <strong>2021 - 2023: Scientific Animator, Petits débrouillards</strong>
+
+Organized activities for various audiences, particularly on seas and coastlines.
 
 -   <strong>2021 - 2022: Participation in EXPORTS Project Communication Campaign</strong>
 
@@ -160,10 +166,11 @@ Public outreach on zooplankton research
 
     -   <a href="https://blogs.nasa.gov/earthexpeditions/2021/06/22/imaging-the-ocean/" target="_blank">"Imaging the Ocean"</a>, blogpost for NASA Earth Expeditions
 
--   <strong>2021 - 2023: Scientific Animator, Petits débrouillards</strong>
-
-Organized activities for various audiences, particularly on seas and coastlines.
-
+```{=html}
+<!-- -->
+```
 -   <strong>2020: Translation of PlanktonID website</strong>
 
 English to French translation: <a href="https://planktonid.geomar.de" target="_blank">PlanktonID Website</a>
+
+## 

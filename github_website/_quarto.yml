@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Laetitia Drago"
@@ -27,6 +28,5 @@ website:
 
 format:
   html:
-    theme: cosmo  # Optional: Choose a theme
-    css: styles.css  # Optional: Add custom CSS for further styling
-
+    theme: cosmo
+    css: styles.css

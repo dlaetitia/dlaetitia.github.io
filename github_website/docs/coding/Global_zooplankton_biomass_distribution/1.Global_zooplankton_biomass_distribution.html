@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Laetitia Drago">
+<meta name="dcterms.date" content="2024-09-27">
+<meta name="description" content="Analyzing and visualizing global zooplankton biomass patterns using R">
 
-<title>Laetitia Drago -</title>
+<title>Laetitia Drago - Global Zooplankton Biomass Distribution</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,17 +72,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Laetitia Drago</span>
     </a>
   </div>
@@ -90,23 +93,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./experience.html"> 
+    <a class="nav-link" href="../../experience.html"> 
 <span class="menu-text">Experience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./coding.html"> 
+    <a class="nav-link" href="../../coding.html"> 
 <span class="menu-text">Coding</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./illustration.html"> 
+    <a class="nav-link" href="../../illustration.html"> 
 <span class="menu-text">Illustration</span></a>
   </li>  
 </ul>
@@ -138,89 +141,109 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#study-overview" id="toc-study-overview" class="nav-link active" data-scroll-target="#study-overview">Study Overview</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
+  <li><a href="#implications" id="toc-implications" class="nav-link" data-scroll-target="#implications">Implications</a></li>
+  <li><a href="#perspectives" id="toc-perspectives" class="nav-link" data-scroll-target="#perspectives">Perspectives</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Global Zooplankton Biomass Distribution</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">Academic</div>
+    <div class="quarto-category">Paper with Code</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Analyzing and visualizing global zooplankton biomass patterns using R
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
 
-<div class="content-container">
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Laetitia Drago </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 27, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
-<div class="bio-photo-container">
-<div class="bio-column">
-<h1>
-Biography
-</h1>
-<p>
-Welcome to my research portfolio!
-</p>
-<p>
-I am currently a CNRS postdoctoral researcher at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN</a> laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.
-</p>
-<p>
-My research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.
-</p>
-</div>
-<div class="photo-column">
-<div class="photo">
-<p><img src="images/CV_pic.png" alt="My Photo" class="profile-photo"></p>
-</div>
-</div>
-</div>
-<div class="two-column-container">
-<div class="column">
-<h2 class="anchored">
-Skills
-</h2>
+
+</header>
+
+
+<p>This paper can be found <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.894372/full">here</a> as well as the corresponding <a href="https://github.com/dlaetitia/Global_zooplankton_biomass_distribution">github repository</a>.</p>
+<section id="study-overview" class="level2">
+<h2 class="anchored" data-anchor-id="study-overview">Study Overview</h2>
 <ul>
-<li>
-Statistical Habitat Modeling
-</li>
-<li>
-Data Analysis and Programming (R, Python)
-</li>
-<li>
-Quantitative in situ imaging (UVP, ZooScan, Planktoscope)
-</li>
-<li>
-Oceanographic Data Processing
-</li>
-<li>
-Scientific Writing &amp; Communication
-</li>
+<li>We used in situ imaging data from the Underwater Vision Profiler 5 (UVP5) to predict global zooplankton biomass distribution.</li>
+<li>The study covered a 10-year period (2008-2018) and analyzed 466,872 images from 3,549 stations worldwide.</li>
+<li>Boosted Regression Trees (BRTs) were used to model the relationship between zooplankton biomass and environmental variables.</li>
 </ul>
-</div>
-<div class="column">
-<h2 class="anchored">
-Interests
-</h2>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
+<ol type="1">
+<li><p><strong>Global Biomass Estimate</strong>: The total zooplankton biomass in the upper 500m of the ocean was estimated at 0.403 Pg with an estimated 0.229 PgC for the epipelagic layer (0-200 m) and 0.173 PgC for the mesopelagic layer (200-500 m).</p></li>
+<li><p><strong>Dominant Groups</strong>:</p>
 <ul>
-<li>
-Marine Plankton Ecology
-</li>
-<li>
-Biodiversity and Ecosystem Functioning
-</li>
-<li>
-Visual Science Communication
-</li>
-<li>
-Arts &amp; Crafts
-</li>
-<li>
-Learning New Skills
-</li>
-<li>
-Plants, lots of plants
-</li>
+<li>Copepoda: 35.7% of total biomass</li>
+<li>Eumalacostraca: 26.6%</li>
+<li>Rhizaria: 16.4%</li>
+</ul></li>
+<li><p><strong>Spatial Distribution</strong>:</p>
+<ul>
+<li>Highest biomass values were found around 60°N and 55°S.</li>
+<li>Lowest biomass was predicted in oceanic gyres and the Arctic (north of 80°N).</li>
+<li>An increase in biomass was observed around the equator.</li>
+</ul></li>
+</ol>
+</section>
+<section id="implications" class="level2">
+<h2 class="anchored" data-anchor-id="implications">Implications</h2>
+<ul>
+<li>This study provides a new method for estimating global zooplankton biomass using in situ imaging and machine learning.</li>
+<li>The findings emphasize the importance of using non-intrusive sampling methods to accurately assess the biomass of fragile organisms like Rhizaria which has been underestimated in previous net-based studies.</li>
+<li>The results can be valuable for improving global biogeochemical models and understanding the role of zooplankton in marine ecosystems and the carbon cycle.</li>
 </ul>
-</div>
-</div>
+</section>
+<section id="perspectives" class="level2">
+<h2 class="anchored" data-anchor-id="perspectives">Perspectives</h2>
+<ul>
+<li>Continued use of imaging systems like UVP5 and UVP6 to expand the dataset and improve predictions.</li>
+<li>Focus on sampling underrepresented areas, particularly in polar regions during winter.</li>
+<li>Integration of data from multiple imaging systems to cover a wider size spectrum of zooplankton.</li>
+</ul>
 
 
+</section>
 
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

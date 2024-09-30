@@ -76,10 +76,11 @@ h2_date {
 
 /* Home information */
 .content-container {
-    max-width: 100%;
-    padding: 0 20px;
-    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }
+
 
 .two-column-container {
     display: flex;
@@ -104,6 +105,17 @@ h2_date {
     align-items: flex-start;
 }
 
+.bio-photo-container {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 2rem;
+    align-items: flex-start;
+}
+
+.bio-column {
+    flex: 1;
+}
+
 .photo-column {
     flex: 0 0 300px;
 }
@@ -111,20 +123,36 @@ h2_date {
 .profile-photo {
     width: 100%;
     height: auto;
-    padding-bottom: 100%; /* This creates a perfect square */
-    border-radius: 50%; /* This makes the square into a circle */
-    object-fit: cover; /* This ensures the image fills the circle without distortion */
+    border-radius: 50%;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    overflow: hidden; /* This ensures the image doesn't spill outside the circle */
 }
 
+.skills-interests-container {
+    display: flex;
+    gap: 40px;
+    margin-top: 2rem;
+}
+
+.skills-interests-container .column {
+    flex: 1;
+}
 
 @media (max-width: 768px) {
+    .bio-photo-container,
+    .skills-interests-container {
+        flex-direction: column;
+    }
+
     .photo-column {
         max-width: 200px;
-        margin: 0 auto;
+        margin: 0 auto 20px auto;
+    }
+
+    .skills-interests-container .column {
+        margin-bottom: 1rem;
     }
 }
+
 
 /* CV styles */
 .experience-item {

@@ -4,15 +4,11 @@ format: html
 css: styles.css
 ---
 
-<div class="photo-column">
+<div class="content-container">
 
-::: container
-::: photo
-![](images/CV_pic.png){.img-circle alt="My Photo" width="1500"}
-:::
-:::
+<div class="bio-photo-container">
 
-</div>
+<div class="bio-column">
 
 <h1>Biography</h1>
 
@@ -22,54 +18,52 @@ css: styles.css
 
 <p>My research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.</p>
 
-<div class="two-column-container">
+</div>
 
-<div class="column">
+::: photo-column
+::: photo
+<img src="images/CV_pic.png" alt="My Photo" class="profile-photo"/>
+:::
+:::
 
+</div>
+
+::: two-column-container
+::: column
 <h2>Skills</h2>
 
 <ul>
 
-<li>Machine Learning & Data Analysis</li>
+<li>Statistical Habitat Modeling</li>
 
-<li>Quantitative Imaging (UVP5, ZooScan)</li>
+<li>Data Analysis and Programming (R, Python)</li>
+
+<li>Quantitative in situ imaging (UVP, ZooScan, Planktoscope)</li>
 
 <li>Oceanographic Data Processing</li>
 
-<li>Statistical Modeling</li>
-
 <li>Scientific Writing & Communication</li>
 
-<li>Programming (R, Python)</li>
-
-<li>GIS and Spatial Analysis</li>
-
 </ul>
+:::
 
-</div>
-
-<div class="column">
-
-<h2>Research Interests</h2>
+::: column
+<h2>Interests</h2>
 
 <ul>
 
 <li>Marine Plankton Ecology</li>
 
-<li>Biological Carbon Pump</li>
-
-<li>Ocean Biogeochemistry</li>
-
-<li>Climate Change Impacts on Marine Ecosystems</li>
-
 <li>Biodiversity and Ecosystem Functioning</li>
 
-<li>Marine Conservation</li>
+<li>Visual Science Communication</li>
 
-<li>Innovative Sampling Technologies in Oceanography</li>
+<li>Arts & Crafts</li>
+
+<li>Plants, lots of plants</li>
+
+<li>Learning New Skills</li>
 
 </ul>
-
-</div>
-
-</div>
+:::
+:::

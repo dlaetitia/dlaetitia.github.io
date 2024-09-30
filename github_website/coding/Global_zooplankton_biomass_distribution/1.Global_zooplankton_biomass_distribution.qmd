@@ -1,0 +1,39 @@
+---
+title: "Global Zooplankton Biomass Distribution"
+description: "Analyzing and visualizing global zooplankton biomass patterns using R"
+author: "Laetitia Drago"
+date: "2024-09-27"
+categories: [R, Academic, "Paper with Code"]
+image: "./fmars-09-894372-g011.jpg"
+toc: true
+---
+
+This paper can be found <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.894372/full">here</a> as well as the corresponding <a href="https://github.com/dlaetitia/Global_zooplankton_biomass_distribution">github repository</a>.
+
+## Study Overview
+- We used in situ imaging data from the Underwater Vision Profiler 5 (UVP5) to predict global zooplankton biomass distribution.
+- The study covered a 10-year period (2008-2018) and analyzed 466,872 images from 3,549 stations worldwide.
+- Boosted Regression Trees (BRTs) were used to model the relationship between zooplankton biomass and environmental variables.
+
+## Key Findings
+1. **Global Biomass Estimate**: The total zooplankton biomass in the upper 500m of the ocean was estimated at 0.403 Pg with an estimated 0.229 PgC for the epipelagic layer (0-200 m) and 0.173 PgC for the mesopelagic layer (200-500 m).
+
+2. **Dominant Groups**:
+   - Copepoda: 35.7% of total biomass
+   - Eumalacostraca: 26.6%
+   - Rhizaria: 16.4%
+
+3. **Spatial Distribution**:
+   - Highest biomass values were found around 60°N and 55°S.
+   - Lowest biomass was predicted in oceanic gyres and the Arctic (north of 80°N).
+   - An increase in biomass was observed around the equator.
+
+## Implications
+- This study provides a new method for estimating global zooplankton biomass using in situ imaging and machine learning.
+- The findings emphasize the importance of using non-intrusive sampling methods to accurately assess the biomass of fragile organisms like Rhizaria which has been underestimated in previous net-based studies.
+- The results can be valuable for improving global biogeochemical models and understanding the role of zooplankton in marine ecosystems and the carbon cycle.
+
+## Perspectives
+- Continued use of imaging systems like UVP5 and UVP6 to expand the dataset and improve predictions.
+- Focus on sampling underrepresented areas, particularly in polar regions during winter.
+- Integration of data from multiple imaging systems to cover a wider size spectrum of zooplankton.

@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "coding.html",
+    "href": "coding.html",
+    "title": "Welcome to My Coding Corner!",
+    "section": "",
+    "text": "Here you’ll find a collection of projects covering various coding topics. Feel free to explore the posts below, use the category filters to find specific topics, or sort by date to see my latest work. Happy coding!"
+  },
+  {
+    "objectID": "coding.html#welcome-to-my-coding-corner",
+    "href": "coding.html#welcome-to-my-coding-corner",
+    "title": "Laetitia Drago",
+    "section": "",
+    "text": "Here you’ll find a collection of projects covering various coding topics. Feel free to explore the posts below, use the category filters to find specific topics, or sort by date to see my latest work. Happy coding!"
+  },
+  {
+    "objectID": "coding.html#latest-posts",
+    "href": "coding.html#latest-posts",
+    "title": "Laetitia Drago",
+    "section": "Latest Posts",
+    "text": "Latest Posts"
+  },
+  {
+    "objectID": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html",
+    "href": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html",
+    "title": "Global Zooplankton Biomass Distribution",
+    "section": "",
+    "text": "This paper can be found here as well as the corresponding github repository."
+  },
+  {
+    "objectID": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#study-overview",
+    "href": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#study-overview",
+    "title": "Global Zooplankton Biomass Distribution",
+    "section": "Study Overview",
+    "text": "Study Overview\n\nWe used in situ imaging data from the Underwater Vision Profiler 5 (UVP5) to predict global zooplankton biomass distribution.\nThe study covered a 10-year period (2008-2018) and analyzed 466,872 images from 3,549 stations worldwide.\nBoosted Regression Trees (BRTs) were used to model the relationship between zooplankton biomass and environmental variables."
+  },
+  {
+    "objectID": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#key-findings",
+    "href": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#key-findings",
+    "title": "Global Zooplankton Biomass Distribution",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nGlobal Biomass Estimate: The total zooplankton biomass in the upper 500m of the ocean was estimated at 0.403 Pg with an estimated 0.229 PgC for the epipelagic layer (0-200 m) and 0.173 PgC for the mesopelagic layer (200-500 m).\nDominant Groups:\n\nCopepoda: 35.7% of total biomass\nEumalacostraca: 26.6%\nRhizaria: 16.4%\n\nSpatial Distribution:\n\nHighest biomass values were found around 60°N and 55°S.\nLowest biomass was predicted in oceanic gyres and the Arctic (north of 80°N).\nAn increase in biomass was observed around the equator."
+  },
+  {
+    "objectID": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#implications",
+    "href": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#implications",
+    "title": "Global Zooplankton Biomass Distribution",
+    "section": "Implications",
+    "text": "Implications\n\nThis study provides a new method for estimating global zooplankton biomass using in situ imaging and machine learning.\nThe findings emphasize the importance of using non-intrusive sampling methods to accurately assess the biomass of fragile organisms like Rhizaria which has been underestimated in previous net-based studies.\nThe results can be valuable for improving global biogeochemical models and understanding the role of zooplankton in marine ecosystems and the carbon cycle."
+  },
+  {
+    "objectID": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#perspectives",
+    "href": "coding/Global_zooplankton_biomass_distribution/1.Global_zooplankton_biomass_distribution.html#perspectives",
+    "title": "Global Zooplankton Biomass Distribution",
+    "section": "Perspectives",
+    "text": "Perspectives\n\nContinued use of imaging systems like UVP5 and UVP6 to expand the dataset and improve predictions.\nFocus on sampling underrepresented areas, particularly in polar regions during winter.\nIntegration of data from multiple imaging systems to cover a wider size spectrum of zooplankton."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Laetitia Drago",
+    "section": "",
+    "text": "Post-doctoral position: Machine learning and marine data\n\n\nMarch 2024 – Present\n\nLOCEAN Laboratory, Paris\nFunding: NECCTON Horizon Europe project\n\nSpatial Distribution of Taxonomic and Functional Diversity of Zooplankton in the Iroise Sea Marine Park (PNMI)\nUse of quantitative imaging data (Zooscan), metabarcoding, environmental data and machine learning techniques\nInvestigation of the relationship between functional diversity and environmental factors\n\n\n\n\nPhD: Global Analysis of the Biological Carbon Pump Using Quantitative Imaging Data\n\n\n2020 - 2023\n\nLOV UMR 7093, Villefranche sur mer, Sorbonne Université\nFunding: 50% H2020 European project TRIATLAS and 50% Ecole Doctorale 129, Sorbonne Université\n\nSpatial Distribution of Zooplankton Biomass Using Quantitative Imaging Data (UVP5) and Machine Learning (niche modeling)\nCompilation of imaging and climatological data (WOA, Copernicus, NOAA)\nExport phenomenon in the North Atlantic during the EXPORTS campaign, 2021\nScientific campaigns at sea: Norwegian Fjords and North Atlantic\n\n\n\n\nMaster 2 internship: Global Distribution of Macroplankton Biomass Estimated by In Situ Imaging\n\n\n2020 (6 months)\n\nLOV UMR 7093, Villefranche sur mer, Sorbonne Université\n\nSpatial Distribution of Zooplankton Using Quantitative Imaging Data (UVP5) and Machine Learning (Niche modeling)\nAnalysis of a large dataset from 25 oceanographic projects\n\n\n\n\nM1 Internship: Numerical Simulations of Larval Dispersal of Paramuricea clavata\n\n\n2019 (2 months)\n\nLECOB UMR 8222, Banyuls sur mer, Sorbonne Université\n\nLagrangian models of larval dispersal and population connectivity"
+  },
+  {
+    "objectID": "experience.html#research-experience",
+    "href": "experience.html#research-experience",
+    "title": "Laetitia Drago",
+    "section": "",
+    "text": "Post-doctoral position: Machine learning and marine data\n\n\nMarch 2024 – Present\n\nLOCEAN Laboratory, Paris\nFunding: NECCTON Horizon Europe project\n\nSpatial Distribution of Taxonomic and Functional Diversity of Zooplankton in the Iroise Sea Marine Park (PNMI)\nUse of quantitative imaging data (Zooscan), metabarcoding, environmental data and machine learning techniques\nInvestigation of the relationship between functional diversity and environmental factors\n\n\n\n\nPhD: Global Analysis of the Biological Carbon Pump Using Quantitative Imaging Data\n\n\n2020 - 2023\n\nLOV UMR 7093, Villefranche sur mer, Sorbonne Université\nFunding: 50% H2020 European project TRIATLAS and 50% Ecole Doctorale 129, Sorbonne Université\n\nSpatial Distribution of Zooplankton Biomass Using Quantitative Imaging Data (UVP5) and Machine Learning (niche modeling)\nCompilation of imaging and climatological data (WOA, Copernicus, NOAA)\nExport phenomenon in the North Atlantic during the EXPORTS campaign, 2021\nScientific campaigns at sea: Norwegian Fjords and North Atlantic\n\n\n\n\nMaster 2 internship: Global Distribution of Macroplankton Biomass Estimated by In Situ Imaging\n\n\n2020 (6 months)\n\nLOV UMR 7093, Villefranche sur mer, Sorbonne Université\n\nSpatial Distribution of Zooplankton Using Quantitative Imaging Data (UVP5) and Machine Learning (Niche modeling)\nAnalysis of a large dataset from 25 oceanographic projects\n\n\n\n\nM1 Internship: Numerical Simulations of Larval Dispersal of Paramuricea clavata\n\n\n2019 (2 months)\n\nLECOB UMR 8222, Banyuls sur mer, Sorbonne Université\n\nLagrangian models of larval dispersal and population connectivity"
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Laetitia Drago",
+    "section": "Education",
+    "text": "Education\n\n2022: FIDLE Introduction to Deep Learning, CNRS (17h)\n\nConvolutional neural networks, evaluation of regression and classification models, sequential and temporal data. Theory and practice (Python).\n\n2022: Ocean Litteracy, Sorbonne Université and IMBRSea (3 weeks)\n\nCommunicate with different types of audiences (age, profession) using innovative learning methods.\n\n2021: Machine Learning 4 Ocean (ML4Ocean), Sorbonne Université (1 week)\n\nSummer school on the use of artificial intelligence tools and machine learning in oceanography. Theory and practice (Python).\n\n2018 - 2020: Master degree of Marine Sciences, Sorbonne Université\n\nFunctioning of marine ecosystems and global changes course obtained with honors.\nFunctional ecology, oceanography, modeling, data processing.\n\n2018: Multivariate analyzes for marine ecology, Sorbonne Université (3 weeks)\n\nEnvironmental data analysis methodologies. Theoretical and practical (R).\n\n2015 - 2018: Bachelor of Science in Life and Health, Université de Nice \n\nBiology of Organisms and Ecosystems course, obtained with honors.\nEcology, diversity of organisms and ecosystems, statistics, genetics."
+  },
+  {
+    "objectID": "experience.html#awards-and-honors",
+    "href": "experience.html#awards-and-honors",
+    "title": "Laetitia Drago",
+    "section": "Awards and honors",
+    "text": "Awards and honors\n\nDecember 2023: Thesis Scientific Publication Award, Foundation of the Sea and Ocean Institute of the Sorbonne University Alliance\n2020 - 2023: Half PhD Scholarship, Doctoral school 129, Sorbonne University\nSeptember 2022: 2nd Place for best poster, LOV laboratory seminar\nSeptember 2021: 2nd Place for best poster, TRIATLAS H2020 General Assembly"
+  },
+  {
+    "objectID": "experience.html#university-services",
+    "href": "experience.html#university-services",
+    "title": "Laetitia Drago",
+    "section": "University Services",
+    "text": "University Services\n\n2020 - 2023: Co-organizer of “LOV Student Seminars”\n\nWelcoming new PhD students and interns, organizing practice sessions for thesis defenses, and themed seminars\n\n2020 - 2023: PhD Student Representative in Various Councils\n\n2022-2023: OSU-STAMAR Council\n2020-2023: Villefranche Oceanography Laboratory Council\n2020-2022: Villefranche Institute of the Sea Council\n\n\nAdvocating for doctoral students’ interests, contributing to decision-making processes, and fostering communication between students and laboratory.\n\n2018 - 2020: Co-organizer of “Green Lunch”\n\nOrganising weekly debates on environmental protection and sustainable development"
+  },
+  {
+    "objectID": "experience.html#teaching",
+    "href": "experience.html#teaching",
+    "title": "Laetitia Drago",
+    "section": "Teaching",
+    "text": "Teaching\n\nMay 2024 (6h): Green Ocean Course, ENSTA, Paris\n\nClasses on Marine plankton diversity and biological invasions\n\nMarch 2024 (3.5h): Tara Ocean QLife Winter School, ENS, Paris\n\nPractical work on zooplankton distribution and in situ imaging data on R\n\n2022 - 2023 (128h): Teaching Assistant Contract, 128h, Sorbonne University\n\nLectures and practical work with undergraduate and master’s students on modeling, taxonomy, and plankton diversity.\n\nCo-supervision of Internships\n\nBachelor’s 2nd Year: “Impact of the coastal front on phytoplankton dynamics in the Iroise Marine Natural Park”, Sophia Mastouri, 2 weeks, 2024\nMaster’s 2nd Year: “Impacts of zooplankton on the carbon cycle of the equatorial Atlantic”, Hélène Thibault, 6 months, 2022\nMaster’s 1st Year: “Study of zooplankton communities along the equatorial Atlantic”, Hannah Haines, 2 months, 2021"
+  },
+  {
+    "objectID": "experience.html#communication",
+    "href": "experience.html#communication",
+    "title": "Laetitia Drago",
+    "section": "Communication",
+    "text": "Communication\n\n2023: Pint of Science “The Study of Zooplankton”\n\nPublic outreach on zooplankton research\n\n2021 - 2023: Scientific Animator, Petits débrouillards\n\nOrganized activities for various audiences, particularly on seas and coastlines.\n\n2021 - 2022: Participation in EXPORTS Project Communication Campaign\n\nCampaign postcard to NASA\nInterviews with the science communication team, Dive and Discover\n“Imaging the Ocean”, blogpost for NASA Earth Expeditions\n\n\n\n\n2020: Translation of PlanktonID website\n\nEnglish to French translation: PlanktonID Website"
+  },
+  {
+    "objectID": "illustration.html",
+    "href": "illustration.html",
+    "title": "Illustration projects",
+    "section": "",
+    "text": "Illustrations for\n\nAnaïs\nFlorian\nMa thèse\n\nOral de thèse\ninstruments\norganismes\nfigures de thèse\nfigures de conférence\n\nCours étudiants crevettes"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Laetitia Drago",
+    "section": "",
+    "text": "2024\n\n\nSiegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Drago L., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, PNAS (submitted) https://eartharxiv.org/repository/view/7020/\n\n\nSoviadan D., Dugenne M., Drago L., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining in situ and ex situ plankton image data to reconstruct zooplankton (&gt;1 mm) volume and mass distribution in the global ocean, Journal of Plankton Research, fbae046, https://doi.org/10.1093/plankt/fbae046\n\n\nThepault A., Rodrigues A., Drago L., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, Proc. R. Soc. B.29120241183 (2024) https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183\n\n\nLaget M., Drago L., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. Nat Commun 15, 3341 (2024) https://doi.org/10.1038/s41467-024-47651-4\n\n\n\n\n\n2023\n\n\nDugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O’Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., Drago L., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, Earth Syst. Sci. Data Discuss. https://essd.copernicus.org/articles/16/2971/2024/\n\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, Front. Mar. Sci, https://doi.org/10.3389/fmars.2022.894372\n2021"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Laetitia Drago",
+    "section": "",
+    "text": "2024\n\n\nSiegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Drago L., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, PNAS (submitted) https://eartharxiv.org/repository/view/7020/\n\n\nSoviadan D., Dugenne M., Drago L., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining in situ and ex situ plankton image data to reconstruct zooplankton (&gt;1 mm) volume and mass distribution in the global ocean, Journal of Plankton Research, fbae046, https://doi.org/10.1093/plankt/fbae046\n\n\nThepault A., Rodrigues A., Drago L., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, Proc. R. Soc. B.29120241183 (2024) https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183\n\n\nLaget M., Drago L., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. Nat Commun 15, 3341 (2024) https://doi.org/10.1038/s41467-024-47651-4\n\n\n\n\n\n2023\n\n\nDugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O’Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., Drago L., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, Earth Syst. Sci. Data Discuss. https://essd.copernicus.org/articles/16/2971/2024/\n\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, Front. Mar. Sci, https://doi.org/10.3389/fmars.2022.894372"
+  },
+  {
+    "objectID": "publications.html#conference-talks-and-seminars",
+    "href": "publications.html#conference-talks-and-seminars",
+    "title": "Laetitia Drago",
+    "section": "Conference talks and seminars",
+    "text": "Conference talks and seminars\n\n\n2024\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, April 2024, SAMA conference, École Normale Supérieure, Paris, France\n\n\nDrago L., Ayata S-D, “Spatial distribution of zooplankton diversity”, July 2024, NECCTON Early Career Oceanography Professionals meeting, online\n\n\n\n\n\n2023\n\n\nDrago L., Drago L.,Busseler K., Karp-Boss L., McDonnell A., Schröder S.-M., Siegel D., Stemmann L., Kiko R., North Atlantic biological pump dynamics in an eddy revealed via in situ imaging”, ASLO Aquatic Science Meeting 2023 (Palma de Majorque, Spain), session Biological Pump Dynamics and Trophic Transfer in Pelagic Ecosystems of the Atlantic,\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, Octobre 2022, TRIATLAS H2020 General Assembly, online\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, Septembre 2022, Séminaire du LOV, online"
+  },
+  {
+    "objectID": "publications.html#reports",
+    "href": "publications.html#reports",
+    "title": "Laetitia Drago",
+    "section": "Reports",
+    "text": "Reports\n\nPhD Thesis: Image-based global analysisof the biological carbon pump, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Pr. Lars Stemmann and Pr. Rainer Kiko, https://theses.hal.science/THESES-SU/tel-04483392v1\n\n\nMaster 2 internship: Global distribution of macroplankton biomass estimated by in situ imaging, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Dr Jean-Olivier Irisson, Pr. Lars Stemmann and Dr. Thelma Panaïotis.\n\n\nMaster 1 internship: Numerical simulations of larval dispersal of Paramuricea clavata, Laboratoire d’Ecogéochimie des Environnements Benthiques (LECOB), Sorbonne Université, Supervised by Dr. Katell Guizien."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nBiography\n",
+    "section": "",
+    "text": "Biography\n\n\nWelcome to my research portfolio!\n\n\nI am currently a CNRS postdoctoral researcher at the LOCEAN laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.\n\n\nMy research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nStatistical Habitat Modeling\n\n\nData Analysis and Programming (R, Python)\n\n\nQuantitative in situ imaging (UVP, ZooScan, Planktoscope)\n\n\nOceanographic Data Processing\n\n\nScientific Writing & Communication\n\n\n\n\n\nInterests\n\n\n\nMarine Plankton Ecology\n\n\nBiodiversity and Ecosystem Functioning\n\n\nVisual Science Communication\n\n\nArts & Crafts\n\n\nPlants, lots of plants\n\n\nLearning New Skills"
+  }
+]
