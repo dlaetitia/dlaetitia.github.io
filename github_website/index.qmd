@@ -4,12 +4,9 @@ format: html
 css: styles.css
 ---
 
-<div class="content-container">
-
-<div class="bio-photo-container">
-
-<div class="bio-column">
-
+:::::::::: content-container
+:::::: bio-photo-container
+::: bio-column
 <h1>Biography</h1>
 
 <p>Welcome to my research portfolio!</p>
@@ -17,18 +14,16 @@ css: styles.css
 <p>I am currently a CNRS postdoctoral researcher at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN</a> laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.</p>
 
 <p>My research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.</p>
+:::
 
-</div>
-
-::: photo-column
+:::: photo-column
 ::: photo
 <img src="images/CV_pic.png" alt="My Photo" class="profile-photo"/>
 :::
-:::
+::::
+::::::
 
-</div>
-
-::: two-column-container
+::::: two-column-container
 ::: column
 <h2>Skills</h2>
 
@@ -66,4 +61,5 @@ css: styles.css
 
 </ul>
 :::
-:::
+:::::
+::::::::::

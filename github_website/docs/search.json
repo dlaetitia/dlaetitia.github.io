@@ -114,9 +114,9 @@
   {
     "objectID": "illustration.html",
     "href": "illustration.html",
-    "title": "Illustration projects",
+    "title": "Illustrations",
     "section": "",
-    "text": "Illustrations for\n\nAnaïs\nFlorian\nMa thèse\n\nOral de thèse\ninstruments\norganismes\nfigures de thèse\nfigures de conférence\n\nCours étudiants crevettes"
+    "text": "Anaïs Project\n\n\n\n\n\n\n\n\nFlorian Project\n\n\n\n\n\n\nPhD Illustrations\n\n\n\nOral de thèse\n\n\nInstruments\n\n\nOrganismes\n\n\nFigures de thèse\n\n\nFigures de conférence\n\n\n\n\n\nOther Projects\n\n\n\nCours étudiants crevettes\n\n\nFête de la science 2024"
   },
   {
     "objectID": "publications.html",
@@ -152,5 +152,82 @@
     "title": "\nBiography\n",
     "section": "",
     "text": "Biography\n\n\nWelcome to my research portfolio!\n\n\nI am currently a CNRS postdoctoral researcher at the LOCEAN laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.\n\n\nMy research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nStatistical Habitat Modeling\n\n\nData Analysis and Programming (R, Python)\n\n\nQuantitative in situ imaging (UVP, ZooScan, Planktoscope)\n\n\nOceanographic Data Processing\n\n\nScientific Writing & Communication\n\n\n\n\n\nInterests\n\n\n\nMarine Plankton Ecology\n\n\nBiodiversity and Ecosystem Functioning\n\n\nVisual Science Communication\n\n\nArts & Crafts\n\n\nPlants, lots of plants\n\n\nLearning New Skills"
+  },
+  {
+    "objectID": "illustration.html#featured-projects",
+    "href": "illustration.html#featured-projects",
+    "title": "Illustrations",
+    "section": "",
+    "text": "&lt;a href=\"PhD/Anais/Anais.qmd\"&gt;\n  &lt;img src=\"illustration/PhD/Anais/Main_figure.png\" alt=\"Anaïs Project\" class=\"thumbnail\"&gt;\n  &lt;div class=\"caption\"&gt;Anaïs Project&lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"PhD/Florian/Florian.qmd\"&gt;\n  &lt;img src=\"illustration/PhD/Florian/illustration_press_release.jpg\" alt=\"Florian Project\" class=\"thumbnail\"&gt;\n  &lt;div class=\"caption\"&gt;Florian Project&lt;/div&gt;\n&lt;/a&gt;\n\n\n\n\n\n\nOral de thèse\n\n\nInstruments\n\n\nOrganismes\n\n\nFigures de thèse\n\n\nFigures de conférence\n\n\n\n\n\n\n\nCours étudiants crevettes\n\n\nFête de la science 2024"
+  },
+  {
+    "objectID": "illustration/PhD/Florian/Florian.html",
+    "href": "illustration/PhD/Florian/Florian.html",
+    "title": "Florian",
+    "section": "",
+    "text": "Tropical Rainforest Ecosystem"
+  },
+  {
+    "objectID": "illustration/PhD/Florian/Florian.html#about-this-illustration",
+    "href": "illustration/PhD/Florian/Florian.html#about-this-illustration",
+    "title": "Florian",
+    "section": "About This Illustration",
+    "text": "About This Illustration\nThis illustration depicts a vibrant tropical rainforest ecosystem. It showcases the rich biodiversity found in these environments, including:\n\nTowering emergent trees\nDense canopy layer\nDiverse understory vegetation\nVarious wildlife species\n\n\nKey Elements\n\nFlora:\n\nLarge-leafed plants typical of rainforest understory\nEpiphytes growing on tree branches\nFerns and mosses on the forest floor\n\nFauna:\n\nColorful birds perched on branches\nSmall mammals like monkeys in the canopy\nInsects on leaves and tree trunks\n\nEnvironmental Features:\n\nA small stream running through the forest floor\nDappled sunlight filtering through the canopy"
+  },
+  {
+    "objectID": "illustration/PhD/Florian/Florian.html#artistic-process",
+    "href": "illustration/PhD/Florian/Florian.html#artistic-process",
+    "title": "Florian",
+    "section": "Artistic Process",
+    "text": "Artistic Process\nThis illustration was created using [describe your medium and techniques, e.g., watercolor and colored pencils]. The process involved extensive research on rainforest ecosystems to ensure accurate representation of the flora and fauna."
+  },
+  {
+    "objectID": "illustration/PhD/Florian/Florian.html#conservation-message",
+    "href": "illustration/PhD/Florian/Florian.html#conservation-message",
+    "title": "Florian",
+    "section": "Conservation Message",
+    "text": "Conservation Message\nThis piece aims to highlight the importance of preserving tropical rainforests, which are crucial habitats for countless species and play a vital role in global climate regulation."
+  },
+  {
+    "objectID": "illustration/PhD/Florian/Florian.html#print-availability",
+    "href": "illustration/PhD/Florian/Florian.html#print-availability",
+    "title": "Florian",
+    "section": "Print Availability",
+    "text": "Print Availability\nLimited edition prints of this illustration are available. Please contact me for more information."
+  },
+  {
+    "objectID": "illustration/PhD/Anais/Anais.html",
+    "href": "illustration/PhD/Anais/Anais.html",
+    "title": "Anaïs",
+    "section": "",
+    "text": "Tropical Rainforest Ecosystem"
+  },
+  {
+    "objectID": "illustration/PhD/Anais/Anais.html#about-this-illustration",
+    "href": "illustration/PhD/Anais/Anais.html#about-this-illustration",
+    "title": "Anaïs",
+    "section": "About This Illustration",
+    "text": "About This Illustration\nThis illustration depicts a vibrant tropical rainforest ecosystem. It showcases the rich biodiversity found in these environments, including:\n\nTowering emergent trees\nDense canopy layer\nDiverse understory vegetation\nVarious wildlife species\n\n\nKey Elements\n\nFlora:\n\nLarge-leafed plants typical of rainforest understory\nEpiphytes growing on tree branches\nFerns and mosses on the forest floor\n\nFauna:\n\nColorful birds perched on branches\nSmall mammals like monkeys in the canopy\nInsects on leaves and tree trunks\n\nEnvironmental Features:\n\nA small stream running through the forest floor\nDappled sunlight filtering through the canopy"
+  },
+  {
+    "objectID": "illustration/PhD/Anais/Anais.html#artistic-process",
+    "href": "illustration/PhD/Anais/Anais.html#artistic-process",
+    "title": "Anaïs",
+    "section": "Artistic Process",
+    "text": "Artistic Process\nThis illustration was created using [describe your medium and techniques, e.g., watercolor and colored pencils]. The process involved extensive research on rainforest ecosystems to ensure accurate representation of the flora and fauna."
+  },
+  {
+    "objectID": "illustration/PhD/Anais/Anais.html#conservation-message",
+    "href": "illustration/PhD/Anais/Anais.html#conservation-message",
+    "title": "Anaïs",
+    "section": "Conservation Message",
+    "text": "Conservation Message\nThis piece aims to highlight the importance of preserving tropical rainforests, which are crucial habitats for countless species and play a vital role in global climate regulation."
+  },
+  {
+    "objectID": "illustration/PhD/Anais/Anais.html#print-availability",
+    "href": "illustration/PhD/Anais/Anais.html#print-availability",
+    "title": "Anaïs",
+    "section": "Print Availability",
+    "text": "Print Availability\nLimited edition prints of this illustration are available. Please contact me for more information."
   }
 ]

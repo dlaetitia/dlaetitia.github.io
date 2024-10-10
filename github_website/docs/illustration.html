@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Laetitia Drago - Illustration projects</title>
+<title>Illustrations – Laetitia Drago</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Illustration projects</h1>
+<h1 class="title">Illustrations</h1>
 </div>
 
 
@@ -161,20 +161,61 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Illustrations for</p>
-<ul>
-<li><p>Anaïs</p></li>
-<li><p>Florian</p></li>
-<li><p>Ma thèse</p>
-<ul>
-<li><p>Oral de thèse</p></li>
-<li><p>instruments</p></li>
-<li><p>organismes</p></li>
-<li><p>figures de thèse</p></li>
-<li><p>figures de conférence</p></li>
-</ul></li>
-<li><p>Cours étudiants crevettes</p></li>
+<div class="gallery">
+<!-- PhD Anais -->
+<div class="gallery-item">
+<p><a href="PhD/Anais/Anais.qmd"></a></p><a href="PhD/Anais/Anais.qmd">
+<p><img src="illustration/PhD/Anais/Main_figure.png" alt="Anaïs Project" class="thumbnail"></p>
+<div class="caption">
+Anaïs Project
+</div>
+</a><p><a href="PhD/Anais/Anais.qmd"></a></p>
+</div>
+<!-- PhD Florian -->
+<div class="gallery-item">
+<p><a href="PhD/Florian/Florian.qmd"></a></p><a href="PhD/Florian/Florian.qmd">
+<p><img src="illustration/PhD/Florian/illustration_press_release.jpg" alt="Florian Project" class="thumbnail"></p>
+<div class="caption">
+<code>Florian Project</code>
+</div>
+</a><p><a href="PhD/Florian/Florian.qmd"></a></p>
+</div>
+</div>
+<div class="project-section">
+<h2 class="anchored">
+PhD Illustrations
+</h2>
+<ul class="project-list">
+<li>
+<a href="PhD/oral_these.qmd">Oral de thèse</a>
+</li>
+<li>
+<a href="PhD/instruments.qmd">Instruments</a>
+</li>
+<li>
+<a href="PhD/organismes.qmd">Organismes</a>
+</li>
+<li>
+<a href="PhD/figures_these.qmd">Figures de thèse</a>
+</li>
+<li>
+<a href="PhD/figures_conference.qmd">Figures de conférence</a>
+</li>
 </ul>
+</div>
+<div class="project-section">
+<h2 class="anchored">
+Other Projects
+</h2>
+<ul class="project-list">
+<li>
+<a href="cours_crevettes.qmd">Cours étudiants crevettes</a>
+</li>
+<li>
+<a href="fete_science_2024.qmd">Fête de la science 2024</a>
+</li>
+</ul>
+</div>
 
 
 
@@ -214,18 +255,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -257,7 +287,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -265,7 +317,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
