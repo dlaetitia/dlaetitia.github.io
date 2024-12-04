@@ -1,12 +1,12 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs/
 
 website:
   title: "Laetitia Drago"
-  favicon: "Illustration/Logo/favicon.ico"
+  favicon: "Logo_page/favicon.ico"
   navbar:
-    logo: "Illustration/Logo/logo.png"
+    logo: "Logo_page/logo.png"
     title: "Laetitia Drago"
     left:
       - text: Home
