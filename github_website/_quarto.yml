@@ -4,7 +4,10 @@ project:
 
 website:
   title: "Laetitia Drago"
+  favicon: "Illustration/Logo/favicon.ico"
   navbar:
+    logo: "Illustration/Logo/logo.png"
+    title: "Laetitia Drago"
     left:
       - text: Home
         href: index.qmd
@@ -30,3 +33,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    text: |
+        <link rel="preload" href="Illustration/Logo/logo.png" as="image">

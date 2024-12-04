@@ -1,6 +1,6 @@
 ## Research experience
 
-::: experience-item
+::::: experience-item
 ::: experience-title
 Post-doctoral position: Machine learning and marine data
 :::
@@ -16,9 +16,9 @@ Funding: <a href="https://neccton.eu/" target="_blank">NECCTON Horizon Europe pr
 -   Spatial Distribution of Taxonomic and Functional Diversity of Zooplankton in the Iroise Sea Marine Park (<a href="https://parc-marin-iroise.fr/" target="_blank">PNMI</a>)
 -   Use of quantitative imaging data (Zooscan), metabarcoding, environmental data and machine learning techniques
 -   Investigation of the relationship between functional diversity and environmental factors
-:::
+:::::
 
-::: experience-item
+::::: experience-item
 ::: experience-title
 PhD: Global Analysis of the Biological Carbon Pump Using Quantitative Imaging Data
 :::
@@ -35,9 +35,9 @@ Funding: 50% <a href="https://triatlas.w.uib.no/" target="_blank">H2020 European
 -   Compilation of imaging and climatological data (WOA, Copernicus, NOAA)
 -   Export phenomenon in the North Atlantic during the EXPORTS campaign, 2021
 -   Scientific campaigns at sea: Norwegian Fjords and North Atlantic
-:::
+:::::
 
-::: experience-item
+::::: experience-item
 ::: experience-title
 Master 2 internship: Global Distribution of Macroplankton Biomass Estimated by In Situ Imaging
 :::
@@ -50,9 +50,9 @@ LOV UMR 7093, Villefranche sur mer, Sorbonne Université
 
 -   Spatial Distribution of Zooplankton Using Quantitative Imaging Data (UVP5) and Machine Learning (Niche modeling)
 -   Analysis of a large dataset from 25 oceanographic projects
-:::
+:::::
 
-::: experience-item
+::::: experience-item
 ::: experience-title
 M1 Internship: Numerical Simulations of Larval Dispersal of Paramuricea clavata
 :::
@@ -64,7 +64,7 @@ M1 Internship: Numerical Simulations of Larval Dispersal of Paramuricea clavata
 LECOB UMR 8222, Banyuls sur mer, Sorbonne Université
 
 -   Lagrangian models of larval dispersal and population connectivity
-:::
+:::::
 
 ## Education
 
@@ -166,9 +166,8 @@ Organized activities for various audiences, particularly on seas and coastlines.
 
     -   <a href="https://blogs.nasa.gov/earthexpeditions/2021/06/22/imaging-the-ocean/" target="_blank">"Imaging the Ocean"</a>, blogpost for NASA Earth Expeditions
 
-```{=html}
 <!-- -->
-```
+
 -   <strong>2020: Translation of PlanktonID website</strong>
 
 English to French translation: <a href="https://planktonid.geomar.de" target="_blank">PlanktonID Website</a>
