@@ -4,9 +4,9 @@ project:
 
 website:
   title: "Laetitia Drago"
-  favicon: "Logo_page/favicon.ico"
+  favicon: "/Logo_page/favicon.ico"
   navbar:
-    logo: "Logo_page/Logo.png"
+    logo: "/Logo_page/Logo.png"
     title: "Laetitia Drago"
     left:
       - text: Home
