@@ -2,10 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-docs/illustration/
 github_website.Rproj
 /_old/
-Illustration/large_images
+Illustration/large_images/
 
 /.quarto/
 illustration_in_progress.qmd
