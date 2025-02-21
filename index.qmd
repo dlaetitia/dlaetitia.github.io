@@ -7,9 +7,10 @@ css: styles.css
 :::::::::: content-container
 :::::: bio-photo-container
 ::: bio-column
+
 <h1>Biography</h1>
 
-<p>Welcome to my research portfolio!</p>
+<p>Welcome to my research and illustration portfolio!</p>
 
 <p>I am currently a CNRS postdoctoral researcher at the <a href="https://www.locean.ipsl.fr/" target="_blank">LOCEAN</a> laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.</p>
 
@@ -20,7 +21,7 @@ css: styles.css
 ::: photo
 <img src="images/CV_pic.png" alt="My Photo" class="profile-photo"/>
 :::
-::::
+:::
 ::::::
 
 ::::: two-column-container
@@ -40,6 +41,7 @@ css: styles.css
 <li>Scientific Writing & Communication</li>
 
 </ul>
+
 :::
 
 ::: column
@@ -60,6 +62,7 @@ css: styles.css
 <li>Learning New Skills</li>
 
 </ul>
+
 :::
 :::::
 ::::::::::

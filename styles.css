@@ -113,8 +113,9 @@ h2_date {
     justify-content: space-between;
     width: 100%;
     max-width: 800px;
-    margin: 2rem auto 0 auto;
-}s
+    margin: 0rem 0 0 0; /* Remove auto margins */
+    gap: 12rem; /* Adds space between columns */
+}
 
 .column {
     flex-basis: 48%;
@@ -233,6 +234,27 @@ h2_date {
 }
 
 
+.cv-download {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-bottom: 2rem;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.cv-download:hover {
+    background-color: #005d91;
+    color: white;
+    text-decoration: none;
+}
+
+.cv-section {
+    margin-bottom: 3rem;
+}
+
 /* Publications styles */
 
 .publication-year {
@@ -271,90 +293,108 @@ h2_date {
 
 /* Illustration page */
 
+/* Import Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 /* Gallery style */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
-  margin-bottom: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem; /* Reduced from 2rem to 1rem */
+  padding: 1rem; /* Reduced padding to match the tighter layout */
+  margin: 0 auto;
+  max-width: 1600px;
 }
 
 .gallery-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.gallery-item > a {
-  text-decoration: none;
-  color: inherit;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
+  position: relative;
+  overflow: hidden;
+  background: white;
+  border-radius: 0; /* Removed border radius */
+  box-shadow: none; /* Removed shadow for cleaner look */
 }
 
 .gallery-item img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 1;
   object-fit: cover;
-  aspect-ratio: 1 / 1;
-  border-radius: 8px;
-  transition: transform 0.3s ease;
+  display: block;
 }
 
-.gallery-item:hover img {
-  transform: scale(1.05);
+/* Overlay styles */
+.gallery-item a::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(240, 240, 240, 0.9);
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
-/* Specific styles for caption */
+.gallery-item:hover a::after {
+  opacity: 1;
+}
+
 .gallery-item .caption {
-  margin-top: 0.1rem;
-  font-weight: normal;
-  color: black !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
   text-align: center;
-  font-size: 1.2rem; /* Increased font size */
-  line-height: 1.3; /* Adjusted line height for better readability */
+  font-size: 0.9rem; /* Keeping your modified font size */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #000000;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  padding: 1rem;
 }
 
-/* Remove backticks from Florian Project */
-.gallery-item .caption code {
-  color: black !important;
-  background: none !important;
-  font-family: inherit !important;
-  font-size: inherit; /* Ensures the code text is the same size as the caption */
+.gallery-item:hover .caption {
+  opacity: 1;
 }
 
-/* Ensure no underline on hover */
-.gallery-item a:hover .caption {
-  text-decoration: none !important;
-}
-
-/* Update project section styles for consistency */
-.project-section h2 {
-  font-size: 1.4rem;
-  color: var(--primary-color);
-  border-bottom: 2px solid var(--light-gray);
-  padding-bottom: 0.5rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-.project-list {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.project-list li {
-  margin-bottom: 0.5rem;
-}
-
-.project-list a {
-  color: var(--text-color);
+.gallery-item a {
   text-decoration: none;
-  transition: color 0.2s ease;
+  color: inherit;
+  display: block;
+  height: 100%;
+  position: relative;
 }
 
-.project-list a:hover {
-  color: var(--primary-color);
+.inline-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px; /* Minimize space between images */
+    width: 100%;
+}
+
+.inline-images img {
+    width: 33%; /* Equally divide the width */
+    max-width: 300px; /* Optional: set a maximum size */
+    aspect-ratio: 1 / 1; /* Ensure perfect circle */
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.reduced-image-medium {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.reduced-image-large {
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }

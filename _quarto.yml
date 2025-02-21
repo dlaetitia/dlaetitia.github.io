@@ -5,6 +5,8 @@ project:
 website:
   title: "Laetitia Drago"
   favicon: "Logo_page/favicon.ico"
+  page-footer:
+    center: "Copyright © 2025 Laetitia Drago. All rights reserved."
   navbar:
     logo: "Logo_page/Logo.png"
     title: "Laetitia Drago"
@@ -20,6 +22,9 @@ website:
       - text: Illustration
         href: illustration.qmd
     right:
+      - text: "{{< iconify academicons:cv-square >}}"
+        href: "documents/CV.pdf"
+        target: _blank
       - text: "{{< iconify octicon:mark-github-16 >}}"
         href: "https://github.com/dlaetitia"
       - text: "{{< iconify simple-icons:googlescholar >}}"
@@ -29,9 +34,12 @@ website:
       - text: "{{< iconify fa6-brands:linkedin >}}"
         href: 'https://www.linkedin.com/in/laetitia-drago-926a58188/'
 
+
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    page-layout: full
     text: |
         <link rel="preload" href="Illustration/Logo/logo.png" as="image">
