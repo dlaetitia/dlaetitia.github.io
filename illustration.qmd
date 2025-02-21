@@ -9,15 +9,15 @@ format:
 ::: gallery
 
 <div class="gallery-item">
-  <a href="PhD/Florian/Florian.qmd">
-    <img src="PhD/Florian/illustration_press_release_squared.jpg" alt="Carbon sequestration">
+  <a href="./Illustration/PhD/Florian/Florian.qmd">
+    <img src="./Illustration/PhD/Florian/illustration_press_release_squared.jpg" alt="Carbon sequestration">
     <div class="caption">Carbon sequestration</div>
   </a>
 </div>
 
 <div class="gallery-item">
-  <a href="PhD/Anais/Anais.qmd">
-    <img src="PhD/Anais/Anais_full_squared.jpg" alt="Deep Sea Mining">
+  <a href="./Illustration/PhD/Anais/Anais.qmd">
+    <img src="./Illustration/PhD/Anais/Anais_full_squared.jpg" alt="Deep Sea Mining">
     <div class="caption">Arctic benthic communities</div>
   </a>
 </div>
