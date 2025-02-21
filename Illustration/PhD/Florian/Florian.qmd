@@ -1,0 +1,15 @@
+---
+title: "Century-scale carbon sequestration flux throughout the ocean by the biological pump"
+categories: [Academic, Carbon pump]
+---
+
+![](illustration_press_release.jpg){.reduced-image-medium}
+
+## About this illustration 
+
+This illustration was created as a graphical abstract for a CNRS press release [La séquestration de carbone par la pompe biologique n'est pas l’apanage de l’océan profond](https://www.insu.cnrs.fr/fr/cnrsinfo/la-sequestration-de-carbone-par-la-pompe-biologique-nest-pas-lapanage-de-locean-profond){target="_blank"} published on 30, November 2023. 
+
+This press release presented the scientific paper [Century-scale carbon sequestration  
+flux throughout the ocean by the biological pump](https://www.nature.com/articles/s41561-023-01318-9){target="_blank"} published in September 2022 by Ricour et al. We based this illustration on the first figure of the article.
+
+An interactive presentation of the paper is available [here](https://fricour.github.io/posts/converse/){target="_blank"}.

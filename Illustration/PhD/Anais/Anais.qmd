@@ -1,0 +1,22 @@
+---
+title: "Responses of shallow-water Arctic benthic communities to climate change"
+categories: [Academic, Arctic, Climate change]
+---
+
+![](Main_figure.png){.reduced-image-large}
+
+## About this illustration 
+
+This illustration was created as a graphical abstract for Dr. Anais Lebrun's PhD defense on [Responses of shallow-water Arctic benthic communities to climate change](https://theses.fr/2023SORUS479){target="_blank"}. 
+
+Disclaimer: I did not illustrate the benthic organisms in this illustration. They had been previously used in the PhD manuscript, and we kept them for this illustration to keep a cohesive visual approach.
+
+## Chapter images
+
+To help with the visual cohesiveness, we created circular images that she used throughout her oral presentation for the different chapters.
+
+::: {.inline-images}
+![Chapter 2](Chap2.2.png)
+![Chapter 3](Chap3.2.png)
+![Chapter 4](Chap4.2.loupe.png)
+:::
