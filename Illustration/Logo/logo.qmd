@@ -1,0 +1,10 @@
+---
+title: "Website logo"
+categories: [Academic, logo]
+---
+
+![](logo_with_background.png){.reduced-image-small}
+
+## About this illustration 
+
+This logo was created with my scientific studies in mind with the wave representing marine studies, the network for data management and machine learning and my initials.

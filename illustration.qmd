@@ -6,7 +6,14 @@ format:
     page-layout: full
 ---
 
-::: gallery
+<div class="gallery">
+
+<div class="gallery-item">
+  <a href="./Illustration/Logo/logo.qmd">
+    <img src="./Illustration/Logo/logo_with_background.png" alt="Website logo">
+    <div class="caption">Website logo</div>
+  </a>
+</div>
 
 <div class="gallery-item">
   <a href="./Illustration/PhD/Florian/Florian.qmd">
@@ -22,4 +29,4 @@ format:
   </a>
 </div>
 
-:::
+</div>
