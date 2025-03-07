@@ -38,6 +38,24 @@
 
 ## Conference talks and seminars
 
+<!-- 2025 -->
+
+<section class="publication-year">
+
+<h2_date>2025</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., “Spatial distribution of zooplankton diversity”, March 2025, *NECCTON General Assembly*, OGS, Trieste, Italy</li>
+
+<li><strong>Drago L</strong>., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., “Monitoring plankton diversity and dynamics in the Parc Naturel Marin d'Iroise (PNMI)”, March 2025, *NECCTON General Assembly*, OGS, Trieste, Italy</li>
+
+</ul>
+
+</section>
+
+<section class="publication-year">
+
 <!-- 2024 -->
 
 <section class="publication-year">
@@ -46,9 +64,11 @@
 
 <ul class="publication-list">
 
-<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, April 2024, *SAMA conference*, École Normale Supérieure, Paris, France</li>
+<li><strong>Drago L</strong>., Ayata S.-D., “Spatial distribution of zooplankton diversity”, March 2024, *NECCTON General Assembly*, U Liège, Liege, Belgium</li>
 
-<li><strong>Drago L</strong>., Ayata S-D, "Spatial distribution of zooplankton diversity", July 2024, NECCTON Early Career Oceanography Professionals meeting, online</li>
+<li><strong>Drago L</strong>., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, April 2024, *SAMA conference*, École Normale Supérieure, Paris, France</li>
+
+<li><strong>Drago L</strong>., Ayata S-D, "Spatial distribution of zooplankton diversity", July 2024, *NECCTON Early Career Oceanography Professionals meeting*, online</li>
 
 </ul>
 

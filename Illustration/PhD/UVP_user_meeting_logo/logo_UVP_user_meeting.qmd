@@ -1,0 +1,11 @@
+---
+title: "Website logo"
+categories: [Academic, logo]
+---
+
+![](Logo_UVP_users_meeting.png){.reduced-image-medium}
+
+## About this illustration 
+
+This logo was created for the first UVP User Meeting organised at the Laboratoire d’Océanographie de Villefranche, Villefranche-sur-Mer, France and online, on the 15th and 16th September 2022.
+The visual codes from the laboratory's logo were kept in mind to obtain this logo.

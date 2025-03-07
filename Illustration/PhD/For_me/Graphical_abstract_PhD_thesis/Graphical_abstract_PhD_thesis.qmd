@@ -1,0 +1,13 @@
+---
+title: "Image-based global analysis of the biological carbon pump"
+categories: [Academic, Plankton]
+---
+
+![](Chapters.jpg){.reduced-image-large}
+
+## About this illustration 
+
+This illustration was created as a graphical abstract for my PhD Thesis [Image-based global analysis of the biological carbon pump](https://theses.fr/2023SORUS562){target="_blank"}.
+
+The images of aggregates, zooplankton organisms and fecal pellets were taken from the Underwater Vision Profiler 5 dataset.
+
