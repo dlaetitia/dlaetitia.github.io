@@ -9,6 +9,20 @@ format:
 <div class="gallery">
 
 <div class="gallery-item">
+  <a href="./Illustration/Projet_maternelles/Maternelles_zoo.qmd">
+    <img src="./Illustration/Projet_maternelles/Zooplankton.png" alt="Zooplanktonic organisms">
+    <div class="caption">Zooplanktonic organisms</div>
+  </a>
+</div>
+
+<div class="gallery-item">
+  <a href="./Illustration/Projet_maternelles/Maternelles_phyto.qmd">
+    <img src="./Illustration/Projet_maternelles/Phytoplankton.png" alt="Phytoplanktonic organisms">
+    <div class="caption">Phytoplanktonic organisms</div>
+  </a>
+</div>
+
+<div class="gallery-item">
   <a href="./Illustration/Logo/logo.qmd">
     <img src="./Illustration/Logo/logo_with_background.png" alt="Website logo">
     <div class="caption">Website logo</div>

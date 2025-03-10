@@ -1,6 +1,6 @@
 ---
 title: "Zooplanktonic silhouettes"
-categories: [Academic, Plankton]
+categories: [Academic, Communication, Plankton]
 ---
 
 ![](Planktonic_shadows.png){.reduced-image-medium}

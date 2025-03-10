@@ -1,24 +1,13 @@
 ---
-title: "Zooplankton and marine particles sampling instruments"
-categories: [Academic, Plankton]
+title: "Forms and colors of plankton - Phytoplankton"
+categories: [Communication, Plankton]
 ---
 
-Plankton has been traditionally sampled using nets and niskin bottles illustrated in the traditional plankton sampling gear. 
+![](Phytoplankton.png){.reduced-image-medium}
 
-Marine Snow Catcher is one of the instrument that can be used to sample sinking marine particles.
+## About this illustration 
 
-More recent instruments include imaging systems such as the Underwater Vision Profiler 5 ([Picheral et al., 2010](https://doi.org/10.4319/lom.2010.8.462)) and 6, its more recent version. These *in situ* imaging system were designed to detect, measure and quantify the distribution of zooplankton organisms and marine particles. The images captured by these instruments are then saved on the [Ecotaxa platform](https://ecotaxa.obs-vlfr.fr/) and through a software called Zooprocess, we have access to 42 morphological descriptors such as size, transparency, complexity, ect. Note that the relative size of the instruments are not respected here.
+This illustration was done in the context of a project called "Forms and colors of plankton" built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.
 
-::: {.inline-images}
-![Traditional plankton sampling gear](Traditional_methods.png)
-![Marine Snow Catcher](MSC.png)
-![Underwater Vision Profilers 5 and 6](UVP.png)
-
-:::
-
-See below some examples of images of organisms captured by the UVP5:
-![](example_UVP5_images.png){.reduced-image-medium}
-
-
-
+This project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Children were given a presentation about planktonic organisms as well as multiple exercises to work on forms and colors using phytoplanktonic organisms as examples for square, triangle, circle and rectangle.
 
