@@ -50,6 +50,14 @@ format:
   </a>
 </div>
 
+
+<div class="gallery-item">
+  <a href="./Illustration/Planktonic_shadows/Planktonic_shadows.qmd">
+    <img src="./Illustration/Planktonic_shadows/Planktonic_shadows.png" alt="Zooplanktonic silhouettes">
+    <div class="caption">Zooplanktonic silhouettes</div>
+  </a>
+</div>
+
 <div class="gallery-item">
   <a href="./Illustration/PhD/Teaching/Shrimp.qmd">
     <img src="./Illustration/PhD/Teaching/Shrimp_vocabulary_squared.png" alt="Shrimp vocabulary">

@@ -1,0 +1,11 @@
+---
+title: "Zooplanktonic silhouettes"
+categories: [Academic, Plankton]
+---
+
+![](Planktonic_shadows.png){.reduced-image-medium}
+
+## About this illustration 
+
+These silhouettes of zooplanktonic organisms were done for personal presentations and used by other scientists for their own presentations. 
+On the top left is the silhouette of a Cavolinia (Gastropoda). The other two organisms are copepods with the top one being an Oithona and the lower one a Calanoida.
