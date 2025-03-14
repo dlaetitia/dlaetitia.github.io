@@ -9,6 +9,13 @@ format:
 <div class="gallery">
 
 <div class="gallery-item">
+  <a href="./Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180.qmd">
+    <img src="./Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180_squared.png" alt="Effects of a pollutant on fish health">
+    <div class="caption">Effects of a pollutant on fish health</div>
+  </a>
+</div>
+
+<div class="gallery-item">
   <a href="./Illustration/Projet_maternelles/Maternelles_zoo.qmd">
     <img src="./Illustration/Projet_maternelles/Zooplankton.png" alt="Zooplanktonic organisms">
     <div class="caption">Zooplanktonic organisms</div>

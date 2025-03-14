@@ -1,23 +1,19 @@
 ---
-title: "Responses of shallow-water Arctic benthic communities to climate change"
+title: "Study of the Effects of the UV Filter Benzophenone-3 on the Lipid Metabolism of European Sea Bass"
 image: "path/to/full_size_image1.jpg"
-categories: [Scientific illustration, Arctic, Climate change]
+categories: [Communication, Fish, Ecotoxicology]
 ---
 
-![](Main_figure.png)
+![](Manon_Lefebvre_MT180.png){.reduced-image-large}
 
 ## About this illustration 
 
-This illustration was created as a graphical abstract for Dr. Anais Lebrun's PhD defense on [Responses of shallow-water Arctic benthic communities to climate change](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-510653). 
+This illustration was created as a visual support for Manon Lefèvre, a PhD student (and very good friend) who participated in the french academic competition "My Thesis in 180 Seconds" where PhD students present their thesis in a very short 3 minutes.
 
-Disclaimer: I did not illustrate the benthic organisms in this illustration. They had been previously used in the PhD manuscript, and we kept them for this illustration to keep a cohesive visual approach.
+ [Here](https://www.normandie-univ.fr/formation-doctorale/mediation-scientifique/mt180/mt180-edition-2025/finalistes-normands-mt180-2025/manon-lefevre/){target="_blank"} is a presentation of her work and context for this illustration.
 
-## Chapter images
+Manon is a PhD student in ecotoxicology at the University of Le Havre Normandy and conducts her research at the SEBIO laboratory.
+She studies the effects of benzophenone-3 (BP-3), a UV filter commonly used in sunscreens, on the lipid metabolism of the European sea bass (Dicentrarchus labrax). Her objective is to better understand the mechanisms of action of this pollutant on fish physiology and to evaluate the risks it poses to marine ecosystems.
+For Manon, participating in the "My Thesis in 180 Seconds" competition is an opportunity to share her research with the general public and raise awareness about the impact of emerging pollutants on aquatic ecosystems.
+SEBIO – Environmental Stressors and BIOmonitoring of aquatic environments (University of Le Havre Normandy | University of Reims Champagne-Ardenne | INERIS)
 
-To help with the visual cohesiveness, we created circular images that she used throughout her oral presentation for the different chapters.
-
-::: {.inline-images}
-![Chapter 2](Chap2.2.png)
-![Chapter 3](Chap3.2.png)
-![Chapter 4](Chap4.2.loupe.png)
-:::
