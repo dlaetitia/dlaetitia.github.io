@@ -3,7 +3,7 @@ title: "Image-based global analysis of the biological carbon pump"
 categories: [Academic, Plankton]
 ---
 
-![](Chapters.jpg){.reduced-image-large}
+![](Chapters.png){.reduced-image-large}
 
 ## About this illustration 
 
