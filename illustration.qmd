@@ -16,16 +16,9 @@ format:
 </div>
 
 <div class="gallery-item">
-  <a href="./Illustration/Projet_maternelles/Maternelles_zoo.qmd">
+  <a href="./Illustration/Projet_maternelles/Maternelles.qmd">
     <img src="./Illustration/Projet_maternelles/Zooplankton.png" alt="Zooplanktonic organisms">
     <div class="caption">Zooplanktonic organisms</div>
-  </a>
-</div>
-
-<div class="gallery-item">
-  <a href="./Illustration/Projet_maternelles/Maternelles_phyto.qmd">
-    <img src="./Illustration/Projet_maternelles/Phytoplankton.png" alt="Phytoplanktonic organisms">
-    <div class="caption">Phytoplanktonic organisms</div>
   </a>
 </div>
 
