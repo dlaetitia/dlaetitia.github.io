@@ -1,5 +1,21 @@
 ## Publications
 
+<!-- 2025 -->
+
+<section class="publication-year">
+
+<h2_date>2025</h2_date>
+
+<ul class="publication-list">
+
+<li><strong>Drago L</strong>, Cailliau, C., Pouline, P., Beker, B., Jalabert, L., Romagnan, J.-B., Ayata, S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the iroise marine natural park (2010–2023) in the iroise sea, north atlantic. Earth Syst. Sci. Data Discuss. 2025, 1–23. <a href="https://doi.org/10.5194/essd-2025-207" target="_blank"><https://doi.org/10.5194/essd-2025-207></a> 
+</li>
+
+</ul>
+
+</section>
+
+
 <!-- 2024 -->
 
 <section class="publication-year">
