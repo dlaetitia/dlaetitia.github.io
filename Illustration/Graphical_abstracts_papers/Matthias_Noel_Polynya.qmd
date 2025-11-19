@@ -1,0 +1,15 @@
+---
+title: "Atmospheric Response to Antarctic Coastal Polynyas"
+image: "Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.png"
+categories: [Academic, Polar, Modeling]
+---
+
+![](Matthias_Noel_Polynya.jpg){.reduced-image-large}
+
+## About this illustration 
+
+This illustration was created as the graphical abstract for the research article [Atmospheric Response to Antarctic Coastal Polynyas](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JD043319){target="_blank"} published in the Journal of Geophysical Research: Atmospheres by Matthias Noël and colleagues at LOCEAN-IPSL (Sorbonne Université, Paris). The paper investigates the atmospheric response to Antarctic coastal polynyas using high-resolution atmospheric modeling.
+
+The schematic illustrates the key atmospheric processes triggered by the opening of a coastal polynya in Antarctica. 
+
+

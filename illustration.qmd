@@ -9,6 +9,14 @@ format:
 <div class="gallery">
 
 <div class="gallery-item">
+  <a href="./Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.qmd">
+    <img src="./Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.png" alt="Atmospheric Response to Antarctic Coastal Polynyas">
+    <div class="caption">Atmospheric Response to Antarctic Coastal Polynyas</div>
+  </a>
+</div>
+
+
+<div class="gallery-item">
   <a href="./Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180.qmd">
     <img src="./Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180_squared.png" alt="Effects of a pollutant on fish health">
     <div class="caption">Effects of a pollutant on fish health</div>
