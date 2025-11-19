@@ -8,8 +8,13 @@
 
 <ul class="publication-list">
 
-<li><strong>Drago L</strong>, Cailliau, C., Pouline, P., Beker, B., Jalabert, L., Romagnan, J.-B., Ayata, S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the iroise marine natural park (2010–2023) in the iroise sea, north atlantic. Earth Syst. Sci. Data Discuss. 2025, 1–23. <a href="https://doi.org/10.5194/essd-2025-207" target="_blank"><https://doi.org/10.5194/essd-2025-207></a> 
-</li>
+<li>Nocera A.C., Stemmann L., Babin M., Biard T., Coustenoble J., Carlotti F., Coppola L., Courchet L., <strong>Drago L</strong>., Elineau A., Guidi L., Hauss H., Jalabert L., Karp-Boss L., Kiko R., Laget M., Lombard F., McDonnell A., Merland C., Motreuil S., Panaïotis T., Picheral M., Rogge A., Waite A., Irisson J.-O., 2025. A global consistent database of plankton and detritus from in situ imaging by the Underwater Vision Profiler 5. *Earth Syst. Sci. Data Discuss.* (in review) <a href="https://doi.org/10.5194/essd-2025-522" target="_blank"><https://doi.org/10.5194/essd-2025-522></a></li>
+
+<li>Ceballos Romero E., Buesseler K., Fields E., Kiko R., Estapa M., Karp-Boss L., Clevenger S., <strong>Drago L</strong>., Siegel D., 2025. On the assessment of sinking particle fluxes from in situ particle size distributions. *EarthArXiv* (in review). <a href="https://doi.org/10.31223/X5899D" target="_blank"><https://doi.org/10.31223/X5899D></a></li>
+
+<li>Soviadan D., Beck M., Habib J., Baudena A., <strong>Drago L</strong>., Accardo A., Laxenaire R., Speich S., Brandt P., Kiko R., Stemmann L., 2025. Marine snow morphology drives sinking and attenuation in the ocean interior. *Biogeosciences*, 22, 3485–3501. <a href="https://doi.org/10.5194/bg-22-3485-2025" target="_blank"><https://doi.org/10.5194/bg-22-3485-2025></a></li>
+
+<li><strong>Drago L</strong>., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the Iroise Marine Natural Park (2010–2023) in the Iroise Sea, North Atlantic. *Earth Syst. Sci. Data*, in press. <a href="https://doi.org/10.5194/essd-2025-207" target="_blank"><https://doi.org/10.5194/essd-2025-207></a></li>
 
 </ul>
 
