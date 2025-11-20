@@ -10,7 +10,7 @@ format:
 
 <div class="gallery-item">
   <a href="./Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.qmd">
-    <img src="./Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.png" alt="Atmospheric Response to Antarctic Coastal Polynyas">
+    <img src="./Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.jpg" alt="Atmospheric Response to Antarctic Coastal Polynyas">
     <div class="caption">Atmospheric Response to Antarctic Coastal Polynyas</div>
   </a>
 </div>
