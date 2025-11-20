@@ -35,18 +35,46 @@
     "text": "Perspectives\n\nContinued use of imaging systems like UVP5 and UVP6 to expand the dataset and improve predictions.\nFocus on sampling underrepresented areas, particularly in polar regions during winter.\nIntegration of data from multiple imaging systems to cover a wider size spectrum of zooplankton."
   },
   {
-    "objectID": "Illustration/Logo/logo.html#about-this-illustration",
-    "href": "Illustration/Logo/logo.html#about-this-illustration",
-    "title": "Website logo",
+    "objectID": "Illustration/Planktonic_shadows/Planktonic_shadows.html#about-this-illustration",
+    "href": "Illustration/Planktonic_shadows/Planktonic_shadows.html#about-this-illustration",
+    "title": "Zooplanktonic silhouettes",
     "section": "About this illustration",
-    "text": "About this illustration\nThis logo was created with my scientific studies in mind with the wave representing marine studies, the network for data management and machine learning and my initials."
+    "text": "About this illustration\nThese silhouettes of zooplanktonic organisms were done for personal presentations and used by other scientists for their own presentations. On the top left is the silhouette of a Cavolinia (Gastropoda). The other two organisms are copepods with the top one being an Oithona and the lower one a Calanoida."
   },
   {
-    "objectID": "Illustration/PhD/Florian/Florian.html#about-this-illustration",
-    "href": "Illustration/PhD/Florian/Florian.html#about-this-illustration",
-    "title": "Century-scale carbon sequestration flux throughout the ocean by the biological pump",
+    "objectID": "Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.html#about-this-illustration",
+    "href": "Illustration/Graphical_abstracts_papers/Matthias_Noel_Polynya.html#about-this-illustration",
+    "title": "Atmospheric Response to Antarctic Coastal Polynyas",
     "section": "About this illustration",
-    "text": "About this illustration\nThis illustration was created as a graphical abstract for a CNRS press release La séquestration de carbone par la pompe biologique n’est pas l’apanage de l’océan profond published on 30, November 2023.\nThis press release presented the scientific paper Century-scale carbon sequestration\nflux throughout the ocean by the biological pump published in September 2022 by Ricour et al. We based this illustration on the first figure of the article.\nAn interactive presentation of the paper is available here."
+    "text": "About this illustration\nThis illustration was created as the graphical abstract for the research article Atmospheric Response to Antarctic Coastal Polynyas published in the Journal of Geophysical Research: Atmospheres by Matthias Noël and colleagues at LOCEAN-IPSL (Sorbonne Université, Paris). The paper investigates the atmospheric response to Antarctic coastal polynyas using high-resolution atmospheric modeling.\nThe schematic illustrates the key atmospheric processes triggered by the opening of a coastal polynya in Antarctica."
+  },
+  {
+    "objectID": "Illustration/Projet_maternelles/Maternelles.html#about-this-illustration",
+    "href": "Illustration/Projet_maternelles/Maternelles.html#about-this-illustration",
+    "title": "Forms and colors of plankton - Zooplankton",
+    "section": "About this illustration",
+    "text": "About this illustration\nThis illustration was done in the context of a project called “Forms and colors of plankton” built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.\nThis project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Two sessions were done at the school with all the classes. The first one was done in January 2025 with exercises sheets designed for this project and focused on coloring and counting. The second session in May 2025 was done using news exercise sheets around counting. A board game was specifically designed for this project, using 3D printed organisms. Bonus coloring sheets were distributed.\n\n \n\nOther illustrations were done to illustrate these processes:"
+  },
+  {
+    "objectID": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html",
+    "href": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html",
+    "title": "Zooplankton and marine particles sampling instruments",
+    "section": "",
+    "text": "Plankton has been traditionally sampled using nets and niskin bottles illustrated in the traditional plankton sampling gear.\nMarine Snow Catcher is one of the instrument that can be used to sample sinking marine particles.\nMore recent instruments include imaging systems such as the Underwater Vision Profiler 5 (Picheral et al., 2010) and 6, its more recent version. These in situ imaging system were designed to detect, measure and quantify the distribution of zooplankton organisms and marine particles. The images captured by these instruments are then saved on the Ecotaxa platform and through a software called Zooprocess, we have access to 42 morphological descriptors such as size, transparency, complexity, ect. Note that the relative size of the instruments are not respected here.\n\n  \n\nSee below some examples of images of organisms captured by the UVP5:"
+  },
+  {
+    "objectID": "Illustration/PhD/Teaching/Shrimp.html#about-this-illustration",
+    "href": "Illustration/PhD/Teaching/Shrimp.html#about-this-illustration",
+    "title": "Shrimp vocabulary",
+    "section": "About this illustration",
+    "text": "About this illustration\nThis illustration was created in collaboration with teachers in the LOV laboratory for students in the Science de la Mer master affiliated with Sorbonne Université as well as for the summer school DIMAPLAN organised at the LOV’s teaching facility."
+  },
+  {
+    "objectID": "Illustration/PhD/UVP_user_meeting_logo/logo_UVP_user_meeting.html#about-this-illustration",
+    "href": "Illustration/PhD/UVP_user_meeting_logo/logo_UVP_user_meeting.html#about-this-illustration",
+    "title": "Website logo",
+    "section": "About this illustration",
+    "text": "About this illustration\nThis logo was created for the first UVP User Meeting organised at the Laboratoire d’Océanographie de Villefranche, Villefranche-sur-Mer, France and online, on the 15th and 16th September 2022. The visual codes from the laboratory’s logo were kept in mind to obtain this logo."
   },
   {
     "objectID": "about.html",
@@ -102,35 +130,35 @@
     "href": "experience.html#communication",
     "title": "Laetitia Drago",
     "section": "Communication",
-    "text": "Communication\n\n2023: Pint of Science “The Study of Zooplankton”\n\nPublic outreach on zooplankton research\n\n2021 - 2023: Scientific Animator, Petits débrouillards\n\nOrganized activities for various audiences, particularly on seas and coastlines.\n\n2021 - 2022: Participation in EXPORTS Project Communication Campaign\n\nCampaign postcard to NASA\nInterviews with the science communication team, Dive and Discover\n“Imaging the Ocean”, blogpost for NASA Earth Expeditions\n\n\n\n\n2020: Translation of PlanktonID website\n\nEnglish to French translation: PlanktonID Website"
+    "text": "Communication\n\n2024-25: Project Forms and colors of plankton\n\nCo-creation with Sakina-Dorothée Ayata of workshops for a preschool in partnership with the Aquarium of Porte Dorée. Development of worksheets on shapes, counting, and colors featuring my plankton illustrations. Co-creation of a board game about plankton food web.\n\n2021-25: Compte instagram scientifique “Marine Life Tales”\n\nPresentation of my research, teaching and communication activities related to marine life.\n\n2023: Pint of Science “The Study of Zooplankton”\n\nPublic outreach on zooplankton research\n\n2021 - 2023: Scientific Animator, Petits débrouillards\n\nOrganized activities for various audiences, particularly on seas and coastlines.\n\n2021 - 2022: Participation in EXPORTS Project Communication Campaign\n\nCampaign postcard to NASA\nInterviews with the science communication team, Dive and Discover\n“Imaging the Ocean”, blogpost for NASA Earth Expeditions\n\n\n\n\n2020: Translation of PlanktonID website\n\nEnglish to French translation: PlanktonID Website"
   },
   {
     "objectID": "illustration.html",
     "href": "illustration.html",
     "title": "Illustrations",
     "section": "",
-    "text": "Effects of a pollutant on fish health\n\n\n\n\n \n\nZooplanktonic organisms\n\n\n\n\n \n\nWebsite logo\n\n\n\n\n \n\nUVP User meeting logo\n\n\n\n\n \n\nPhD thesis graphical abstract\n\n\n\n\n \n\nSampling instruments\n\n\n\n\n \n\nCarbon sequestration\n\n\n\n\n \n\nArctic benthic communities\n\n\n\n\n \n\nZooplanktonic silhouettes\n\n\n\n\n \n\nShrimp vocabulary"
+    "text": "Atmospheric Response to Antarctic Coastal Polynyas\n\n\n\n\n \n\nEffects of a pollutant on fish health\n\n\n\n\n \n\nZooplanktonic organisms\n\n\n\n\n \n\nWebsite logo\n\n\n\n\n \n\nUVP User meeting logo\n\n\n\n\n \n\nPhD thesis graphical abstract\n\n\n\n\n \n\nSampling instruments\n\n\n\n\n \n\nCarbon sequestration\n\n\n\n\n \n\nArctic benthic communities\n\n\n\n\n \n\nZooplanktonic silhouettes\n\n\n\n\n \n\nShrimp vocabulary"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nBiography\n",
     "section": "",
-    "text": "Biography\n\n\nWelcome to my research and illustration portfolio!\n\n\nI am currently a CNRS postdoctoral researcher at the LOCEAN laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.\n\n\nMy research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nStatistical Habitat Modeling\n\n\nData Analysis and Programming (R, Python)\n\n\nQuantitative in situ imaging (UVP, ZooScan, Planktoscope)\n\n\nOceanographic Data Processing\n\n\nScientific Writing & Communication\n\n\n\n\n\nInterests\n\n\n\nMarine Plankton Ecology\n\n\nBiodiversity and Ecosystem Functioning\n\n\nVisual Science Communication\n\n\nArts & Crafts\n\n\nPlants, lots of plants\n\n\nLearning New Skills"
+    "text": "Welcome to my research and illustration portfolio!\n\n\nI am currently a CNRS postdoctoral researcher at the LOCEAN laboratory in Paris, working on the spatial distribution and diversity of zooplankton and phytoplankton using quantitative imaging and machine learning techniques.\n\n\nMy research integrates environmental and biological data to investigate spatial distribution of zooplankton and phytoplankton as well as their role in the biological carbon pump.\n\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\nStatistical Habitat Modeling\n\n\nData Analysis and Programming (R, Python)\n\n\nQuantitative in situ imaging (UVP, ZooScan, Planktoscope)\n\n\nOceanographic Data Processing\n\n\nScientific Writing & Communication\n\n\n\n\n\nInterests\n\n\n\nMarine Plankton Ecology\n\n\nBiodiversity and Ecosystem Functioning\n\n\nVisual Science Communication\n\n\nArts & Crafts\n\n\nPlants, lots of plants\n\n\nLearning New Skills"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Laetitia Drago",
     "section": "",
-    "text": "2025\n\n\nDrago, L., Cailliau, C., Pouline, P., Beker, B., Jalabert, L., Romagnan, J.-B., Ayata, S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the iroise marine natural park (2010–2023) in the iroise sea, north atlantic. Earth Syst. Sci. Data Discuss. 2025, 1–23. https://doi.org/10.5194/essd-2025-207\n\n\n\n\n\n2024\n\n\nSiegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Drago L., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, PNAS (submitted) https://eartharxiv.org/repository/view/7020/\n\n\nSoviadan D., Dugenne M., Drago L., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining in situ and ex situ plankton image data to reconstruct zooplankton (&gt;1 mm) volume and mass distribution in the global ocean, Journal of Plankton Research, fbae046, https://doi.org/10.1093/plankt/fbae046\n\n\nThepault A., Rodrigues A., Drago L., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, Proc. R. Soc. B.29120241183 (2024) https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183\n\n\nDugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O’Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., Drago L., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, Earth Syst. Sci. Data Discuss. https://essd.copernicus.org/articles/16/2971/2024/\n\n\nLaget M., Drago L., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. Nat Commun 15, 3341 (2024) https://doi.org/10.1038/s41467-024-47651-4\n\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, Front. Mar. Sci, https://doi.org/10.3389/fmars.2022.894372"
+    "text": "2025\n\n\nNocera A.C., Stemmann L., Babin M., Biard T., Coustenoble J., Carlotti F., Coppola L., Courchet L., Drago L., Elineau A., Guidi L., Hauss H., Jalabert L., Karp-Boss L., Kiko R., Laget M., Lombard F., McDonnell A., Merland C., Motreuil S., Panaïotis T., Picheral M., Rogge A., Waite A., Irisson J.-O., 2025. A global consistent database of plankton and detritus from in situ imaging by the Underwater Vision Profiler 5. Earth Syst. Sci. Data Discuss. (in review) https://doi.org/10.5194/essd-2025-522\n\n\nCeballos Romero E., Buesseler K., Fields E., Kiko R., Estapa M., Karp-Boss L., Clevenger S., Drago L., Siegel D., 2025. On the assessment of sinking particle fluxes from in situ particle size distributions. EarthArXiv (in review). https://doi.org/10.31223/X5899D\n\n\nSoviadan D., Beck M., Habib J., Baudena A., Drago L., Accardo A., Laxenaire R., Speich S., Brandt P., Kiko R., Stemmann L., 2025. Marine snow morphology drives sinking and attenuation in the ocean interior. Biogeosciences, 22, 3485–3501. https://doi.org/10.5194/bg-22-3485-2025\n\n\nDrago L., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the Iroise Marine Natural Park (2010–2023) in the Iroise Sea, North Atlantic. Earth Syst. Sci. Data, in press. https://doi.org/10.5194/essd-2025-207\n\n\n\n\n\n2024\n\n\nSiegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Drago L., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, PNAS (submitted) https://eartharxiv.org/repository/view/7020/\n\n\nSoviadan D., Dugenne M., Drago L., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining in situ and ex situ plankton image data to reconstruct zooplankton (&gt;1 mm) volume and mass distribution in the global ocean, Journal of Plankton Research, fbae046, https://doi.org/10.1093/plankt/fbae046\n\n\nThepault A., Rodrigues A., Drago L., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, Proc. R. Soc. B.29120241183 (2024) https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183\n\n\nDugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O’Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., Drago L., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, Earth Syst. Sci. Data Discuss. https://essd.copernicus.org/articles/16/2971/2024/\n\n\nLaget M., Drago L., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. Nat Commun 15, 3341 (2024) https://doi.org/10.1038/s41467-024-47651-4\n\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, Front. Mar. Sci, https://doi.org/10.3389/fmars.2022.894372"
   },
   {
     "objectID": "publications.html#publications",
     "href": "publications.html#publications",
     "title": "Laetitia Drago",
     "section": "",
-    "text": "2025\n\n\nDrago, L., Cailliau, C., Pouline, P., Beker, B., Jalabert, L., Romagnan, J.-B., Ayata, S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the iroise marine natural park (2010–2023) in the iroise sea, north atlantic. Earth Syst. Sci. Data Discuss. 2025, 1–23. https://doi.org/10.5194/essd-2025-207\n\n\n\n\n\n2024\n\n\nSiegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Drago L., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, PNAS (submitted) https://eartharxiv.org/repository/view/7020/\n\n\nSoviadan D., Dugenne M., Drago L., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining in situ and ex situ plankton image data to reconstruct zooplankton (&gt;1 mm) volume and mass distribution in the global ocean, Journal of Plankton Research, fbae046, https://doi.org/10.1093/plankt/fbae046\n\n\nThepault A., Rodrigues A., Drago L., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, Proc. R. Soc. B.29120241183 (2024) https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183\n\n\nDugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O’Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., Drago L., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, Earth Syst. Sci. Data Discuss. https://essd.copernicus.org/articles/16/2971/2024/\n\n\nLaget M., Drago L., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. Nat Commun 15, 3341 (2024) https://doi.org/10.1038/s41467-024-47651-4\n\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, Front. Mar. Sci, https://doi.org/10.3389/fmars.2022.894372"
+    "text": "2025\n\n\nNocera A.C., Stemmann L., Babin M., Biard T., Coustenoble J., Carlotti F., Coppola L., Courchet L., Drago L., Elineau A., Guidi L., Hauss H., Jalabert L., Karp-Boss L., Kiko R., Laget M., Lombard F., McDonnell A., Merland C., Motreuil S., Panaïotis T., Picheral M., Rogge A., Waite A., Irisson J.-O., 2025. A global consistent database of plankton and detritus from in situ imaging by the Underwater Vision Profiler 5. Earth Syst. Sci. Data Discuss. (in review) https://doi.org/10.5194/essd-2025-522\n\n\nCeballos Romero E., Buesseler K., Fields E., Kiko R., Estapa M., Karp-Boss L., Clevenger S., Drago L., Siegel D., 2025. On the assessment of sinking particle fluxes from in situ particle size distributions. EarthArXiv (in review). https://doi.org/10.31223/X5899D\n\n\nSoviadan D., Beck M., Habib J., Baudena A., Drago L., Accardo A., Laxenaire R., Speich S., Brandt P., Kiko R., Stemmann L., 2025. Marine snow morphology drives sinking and attenuation in the ocean interior. Biogeosciences, 22, 3485–3501. https://doi.org/10.5194/bg-22-3485-2025\n\n\nDrago L., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., 2025. Long-term plankton and environmental monitoring dataset from the marine protected area of the Iroise Marine Natural Park (2010–2023) in the Iroise Sea, North Atlantic. Earth Syst. Sci. Data, in press. https://doi.org/10.5194/essd-2025-207\n\n\n\n\n\n2024\n\n\nSiegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Drago L., Siegel D., Estapa M., Burd A., Fields F., Johnson L., Romanelli E., Passow U., Dynamics of Aggregates and Sinking Carbon Fluxes in a Turbulent Ocean, PNAS (submitted) https://eartharxiv.org/repository/view/7020/\n\n\nSoviadan D., Dugenne M., Drago L., Biard T., Trudnowska E., Lombard F., Romagnan J.-B., Jamet J.-L., Kiko R., Gorsky G., Stemmann L. (2024). Combining in situ and ex situ plankton image data to reconstruct zooplankton (&gt;1 mm) volume and mass distribution in the global ocean, Journal of Plankton Research, fbae046, https://doi.org/10.1093/plankt/fbae046\n\n\nThepault A., Rodrigues A., Drago L., Gremillet D., “Food chain without giants: Historical trophic modelling indicates 70% increase in little auk populations after bowhead whaling in the Atlantic Arctic”, Proc. R. Soc. B.29120241183 (2024) https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1183\n\n\nDugenne, M., Corrales-Ugalde, M., Luo, J., Kiko, R., O’Brien, T., Irisson, J.-O., Lombard, F., Stemmann, L., Stock, C., Anderson, C. R., Babin, M., Bhairy, N., Bonnet, S., Carlotti, F., Cornils, A., Crockford, E. T., Daniel, P., Desnos, C., Drago L., Elineau, A., Fischer, A., Grandrémy, N., Grondin, P.-L., Guidi, L., Guieu, C., Hauss, H., Hayashi, K., Huggett, J. A., Jalabert, L., Karp-Boss, L., Kenitz, K. M., Kudela, R. M., Lescot, M., Marec, C., McDonnell, A., Mériguet, Z., Niehoff, B., Noyon, M., Panaïotis, T., Peacock, E., Picheral, M., Riquier, E., Roesler, C., Romagnan, J.-B., Sosik, H. M., Spencer, G., Taucher, J., Tilliette, C., and Vilain, M.: First release of the Pelagic Size Structure database: Global datasets of marine size spectra obtained from plankton imaging devices, Earth Syst. Sci. Data Discuss. https://essd.copernicus.org/articles/16/2971/2024/\n\n\nLaget M., Drago L., Panaïotis, T., Kiko R., Stemmann L., Rogge A., Llopis-Monferrer N., Leynaert A., Irisson J.O., Biard T., Global census of the significance of giant mesopelagic protists to the marine carbon and silicon cycles. Nat Commun 15, 3341 (2024) https://doi.org/10.1038/s41467-024-47651-4\n\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), Global Distribution of Zooplankton Biomass Estimated by In Situ Imaging and Machine Learning, Front. Mar. Sci, https://doi.org/10.3389/fmars.2022.894372"
   },
   {
     "objectID": "publications.html#conference-talks-and-seminars",
@@ -140,11 +168,11 @@
     "text": "Conference talks and seminars\n\n\n2025\n\n\nDrago L., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., “Spatial distribution of zooplankton diversity”, March 2025, NECCTON General Assembly, OGS, Trieste, Italy\n\n\nDrago L., Cailliau C., Pouline P., Beker B., Jalabert L., Romagnan J.-B., Ayata S.-D., “Monitoring plankton diversity and dynamics in the Parc Naturel Marin d’Iroise (PNMI)”, March 2025, NECCTON General Assembly, OGS, Trieste, Italy\n\n\n\n\n\n\n2024\n\n\nDrago L., Ayata S.-D., “Spatial distribution of zooplankton diversity”, March 2024, NECCTON General Assembly, U Liège, Liege, Belgium\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, April 2024, SAMA conference, École Normale Supérieure, Paris, France\n\n\nDrago L., Ayata S-D, “Spatial distribution of zooplankton diversity”, July 2024, NECCTON Early Career Oceanography Professionals meeting, online\n\n\n\n\n\n2023\n\n\nDrago L., Drago L.,Busseler K., Karp-Boss L., McDonnell A., Schröder S.-M., Siegel D., Stemmann L., Kiko R., North Atlantic biological pump dynamics in an eddy revealed via in situ imaging”, ASLO Aquatic Science Meeting 2023 (Palma de Majorque, Spain), session Biological Pump Dynamics and Trophic Transfer in Pelagic Ecosystems of the Atlantic,\n\n\n\n\n2022\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, Octobre 2022, TRIATLAS H2020 General Assembly, online\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of zooplankton biomass estimated by in situ imaging and machine learning”, Septembre 2022, Séminaire du LOV, online\n\n\n\n\n2021\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Image-based analysis of the Global Distribution of Zooplankton Biomass Through a Habitat Modeling Approach”, Septembre 2021, TRIATLAS General assembly, poster, online\n\n\nDrago L., Panaïotis T., Irisson J.-O., Babin M., Biard T., Carlotti F., Coppola L., Guidi L., Hauss H., Karp-Boss L., Lombard F., McDonnell A., Picheral M., Rogge A., Waite A., Stemmann L., Kiko R., (2022), “Global distribution of macroplankton biomass estimated by in situ imaging”, July 2021, ASLO 2021 Meeting, online"
   },
   {
-    "objectID": "publications.html#reports",
-    "href": "publications.html#reports",
+    "objectID": "publications.html#internship-reports-and-phd-thesis",
+    "href": "publications.html#internship-reports-and-phd-thesis",
     "title": "Laetitia Drago",
-    "section": "Reports",
-    "text": "Reports\n\nPhD Thesis: Image-based global analysisof the biological carbon pump, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Pr. Lars Stemmann and Pr. Rainer Kiko, https://theses.hal.science/THESES-SU/tel-04483392v1\n\n\nMaster 2 internship: Global distribution of macroplankton biomass estimated by in situ imaging, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Dr Jean-Olivier Irisson, Pr. Lars Stemmann and Dr. Thelma Panaïotis.\n\n\nMaster 1 internship: Numerical simulations of larval dispersal of Paramuricea clavata, Laboratoire d’Ecogéochimie des Environnements Benthiques (LECOB), Sorbonne Université, Supervised by Dr. Katell Guizien."
+    "section": "Internship reports and PhD Thesis",
+    "text": "Internship reports and PhD Thesis\n\nPhD Thesis: Image-based global analysisof the biological carbon pump, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Pr. Lars Stemmann and Pr. Rainer Kiko, https://theses.hal.science/THESES-SU/tel-04483392v1\n\n\nMaster 2 internship: Global distribution of macroplankton biomass estimated by in situ imaging, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Dr Jean-Olivier Irisson, Pr. Lars Stemmann and Dr. Thelma Panaïotis.\n\n\nMaster 1 internship: Numerical simulations of larval dispersal of Paramuricea clavata, Laboratoire d’Ecogéochimie des Environnements Benthiques (LECOB), Sorbonne Université, Supervised by Dr. Katell Guizien."
   },
   {
     "objectID": "Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180.html#about-this-illustration",
@@ -154,11 +182,11 @@
     "text": "About this illustration\nThis illustration was created as a visual support for Manon Lefèvre, a PhD student (and very good friend) who participated in the french academic competition “My Thesis in 180 Seconds” where PhD students present their thesis in a very short 3 minutes. You can watch her regional performance in this video.\nHere is a presentation of her work and context for this illustration.\nManon is a PhD student in ecotoxicology at the University of Le Havre Normandy and conducts her research at the SEBIO laboratory. She studies the effects of benzophenone-3 (BP-3), a UV filter commonly used in sunscreens, on the lipid metabolism of the European sea bass (Dicentrarchus labrax). Her objective is to better understand the mechanisms of action of this pollutant on fish physiology and to evaluate the risks it poses to marine ecosystems. For Manon, participating in the “My Thesis in 180 Seconds” competition is an opportunity to share her research with the general public and raise awareness about the impact of emerging pollutants on aquatic ecosystems. SEBIO – Environmental Stressors and BIOmonitoring of aquatic environments (University of Le Havre Normandy | University of Reims Champagne-Ardenne | INERIS)"
   },
   {
-    "objectID": "Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180.html#chapter-images",
-    "href": "Illustration/Manon_Lefebvre_MT180/Manon_Lefebvre_MT180.html#chapter-images",
-    "title": "Responses of shallow-water Arctic benthic communities to climate change",
-    "section": "Chapter images",
-    "text": "Chapter images\nTo help with the visual cohesiveness, we created circular images that she used throughout her oral presentation for the different chapters."
+    "objectID": "Illustration/PhD/Florian/Florian.html#about-this-illustration",
+    "href": "Illustration/PhD/Florian/Florian.html#about-this-illustration",
+    "title": "Century-scale carbon sequestration flux throughout the ocean by the biological pump",
+    "section": "About this illustration",
+    "text": "About this illustration\nThis illustration was created as a graphical abstract for a CNRS press release La séquestration de carbone par la pompe biologique n’est pas l’apanage de l’océan profond published on 30, November 2023.\nThis press release presented the scientific paper Century-scale carbon sequestration\nflux throughout the ocean by the biological pump published in September 2022 by Ricour et al. We based this illustration on the first figure of the article.\nAn interactive presentation of the paper is available here."
   },
   {
     "objectID": "Illustration/PhD/Anais/Anais.html#about-this-illustration",
@@ -175,95 +203,11 @@
     "text": "Chapter images\nTo help with the visual cohesiveness, we created circular images that she used throughout her oral presentation for the different chapters."
   },
   {
-    "objectID": "coding.html",
-    "href": "coding.html",
-    "title": "Welcome to My Coding Corner!",
-    "section": "",
-    "text": "Here you’ll find a collection of projects covering various coding topics. Feel free to explore the posts below, use the category filters to find specific topics, or sort by date to see my latest work. Happy coding!"
-  },
-  {
-    "objectID": "publications.html#internship-reports-and-phd-thesis",
-    "href": "publications.html#internship-reports-and-phd-thesis",
-    "title": "Laetitia Drago",
-    "section": "Internship reports and PhD Thesis",
-    "text": "Internship reports and PhD Thesis\n\nPhD Thesis: Image-based global analysisof the biological carbon pump, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Pr. Lars Stemmann and Pr. Rainer Kiko, https://theses.hal.science/THESES-SU/tel-04483392v1\n\n\nMaster 2 internship: Global distribution of macroplankton biomass estimated by in situ imaging, Laboratoire d’Océanographie de Villefranche (LOV), Sorbonne Université, Supervised by Dr Jean-Olivier Irisson, Pr. Lars Stemmann and Dr. Thelma Panaïotis.\n\n\nMaster 1 internship: Numerical simulations of larval dispersal of Paramuricea clavata, Laboratoire d’Ecogéochimie des Environnements Benthiques (LECOB), Sorbonne Université, Supervised by Dr. Katell Guizien."
-  },
-  {
-    "objectID": "Illustration/PhD/Teaching/Shrimp.html#about-this-illustration",
-    "href": "Illustration/PhD/Teaching/Shrimp.html#about-this-illustration",
-    "title": "Shrimp vocabulary",
-    "section": "About this illustration",
-    "text": "About this illustration\nThis illustration was created in collaboration with teachers in the LOV laboratory for students in the Science de la Mer master affiliated with Sorbonne Université as well as for the summer school DIMAPLAN organised at the LOV’s teaching facility."
-  },
-  {
     "objectID": "Illustration/PhD/For_me/Graphical_abstract_PhD_thesis/Graphical_abstract_PhD_thesis.html#about-this-illustration",
     "href": "Illustration/PhD/For_me/Graphical_abstract_PhD_thesis/Graphical_abstract_PhD_thesis.html#about-this-illustration",
     "title": "Image-based global analysis of the biological carbon pump",
     "section": "About this illustration",
     "text": "About this illustration\nThis illustration was created as a graphical abstract for my PhD Thesis Image-based global analysis of the biological carbon pump.\nThe images of aggregates, zooplankton organisms and fecal pellets were taken from the Underwater Vision Profiler 5 dataset."
-  },
-  {
-    "objectID": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html#about-this-illustration",
-    "href": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html#about-this-illustration",
-    "title": "Sampling instruments",
-    "section": "About this illustration",
-    "text": "About this illustration\nSampling instruments illustrations realised for my PhD Thesis Image-based global analysis of the biological carbon pump.\nOn the left is an Underwater Vision Profiler 5 (Picheral et al., 2010). This in situ imaging system was designed to detect, measure and quantify the distribution of zooplankton organisms and marine particles. Its more recent version (UVP6) is on the middle right of the figure. The images captured by these instruments are then saved on the Ecotaxa platform and through a software called Zooprocess, we have access to 42 morphological descriptors such as size, transparency, complexity, ect.\nHere are some images examples from the UVP5 dataset:\n\n\n\n\nExample of plankton images"
-  },
-  {
-    "objectID": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html#chapter-images",
-    "href": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html#chapter-images",
-    "title": "Responses of shallow-water Arctic benthic communities to climate change",
-    "section": "Chapter images",
-    "text": "Chapter images\nTo help with the visual cohesiveness, we created circular images that she used throughout her oral presentation for the different chapters."
-  },
-  {
-    "objectID": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html",
-    "href": "Illustration/PhD/For_me/Sampling_instruments/Sampling_instruments.html",
-    "title": "Zooplankton and marine particles sampling instruments",
-    "section": "",
-    "text": "Plankton has been traditionally sampled using nets and niskin bottles illustrated in the traditional plankton sampling gear.\nMarine Snow Catcher is one of the instrument that can be used to sample sinking marine particles.\nMore recent instruments include imaging systems such as the Underwater Vision Profiler 5 (Picheral et al., 2010) and 6, its more recent version. These in situ imaging system were designed to detect, measure and quantify the distribution of zooplankton organisms and marine particles. The images captured by these instruments are then saved on the Ecotaxa platform and through a software called Zooprocess, we have access to 42 morphological descriptors such as size, transparency, complexity, ect. Note that the relative size of the instruments are not respected here.\n\n  \n\nSee below some examples of images of organisms captured by the UVP5:"
-  },
-  {
-    "objectID": "Illustration/PhD/UVP user meeting logo/logo_UVP_user_meeting.html#about-this-illustration",
-    "href": "Illustration/PhD/UVP user meeting logo/logo_UVP_user_meeting.html#about-this-illustration",
-    "title": "Website logo",
-    "section": "About this illustration",
-    "text": "About this illustration\nThis logo was created for the first UVP User Meeting organised at the Laboratoire d’Océanographie de Villefranche, Villefranche-sur-Mer, France and online, on the 15th and 16th September 2022. The visual codes from the laboratory’s logo were kept in mind to obtain this logo."
-  },
-  {
-    "objectID": "Illustration/PhD/UVP_user_meeting_logo/logo_UVP_user_meeting.html#about-this-illustration",
-    "href": "Illustration/PhD/UVP_user_meeting_logo/logo_UVP_user_meeting.html#about-this-illustration",
-    "title": "Website logo",
-    "section": "About this illustration",
-    "text": "About this illustration\nThis logo was created for the first UVP User Meeting organised at the Laboratoire d’Océanographie de Villefranche, Villefranche-sur-Mer, France and online, on the 15th and 16th September 2022. The visual codes from the laboratory’s logo were kept in mind to obtain this logo."
-  },
-  {
-    "objectID": "Illustration/Planktonic_shadows/Planktonic_shadows.html#about-this-illustration",
-    "href": "Illustration/Planktonic_shadows/Planktonic_shadows.html#about-this-illustration",
-    "title": "Zooplanktonic silhouettes",
-    "section": "About this illustration",
-    "text": "About this illustration\nThese silhouettes of zooplanktonic organisms were done for personal presentations and used by other scientists for their own presentations. On the top left is the silhouette of a Cavolinia (Gastropoda). The other two organisms are copepods with the top one being an Oithona and the lower one a Calanoida."
-  },
-  {
-    "objectID": "Illustration/Projet_maternelles/Maternelles_zoo.html",
-    "href": "Illustration/Projet_maternelles/Maternelles_zoo.html",
-    "title": "Forms and colors of plankton - Zooplankton",
-    "section": "",
-    "text": "## About this illustration\nThis illustration was done in the context of a project called “Forms and colors of plankton” built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.\nThis project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Zooplanktonic organisms will be used in a presentation in May 2025 about the marine food chain starting with phytoplankton and ending with large marine mammals and fish.\nOther illustrations were done to illustrate these processes:"
-  },
-  {
-    "objectID": "Illustration/Projet_maternelles/Maternelles_phyto.html",
-    "href": "Illustration/Projet_maternelles/Maternelles_phyto.html",
-    "title": "Forms and colors of plankton - Phytoplankton",
-    "section": "",
-    "text": "## About this illustration\nThis illustration was done in the context of a project called “Forms and colors of plankton” built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.\nThis project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Children were given a presentation about planktonic organisms as well as multiple exercises to work on forms and colors using phytoplanktonic organisms as examples for square, triangle, circle and rectangle."
-  },
-  {
-    "objectID": "Illustration/Projet_maternelles/Maternelles_zoo.html#about-this-illustration",
-    "href": "Illustration/Projet_maternelles/Maternelles_zoo.html#about-this-illustration",
-    "title": "Forms and colors of plankton - Zooplankton",
-    "section": "About this illustration",
-    "text": "About this illustration\nThis illustration was done in the context of a project called “Forms and colors of plankton” built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.\nThis project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Zooplanktonic organisms will be used in a presentation in May 2025 about the marine food chain starting with phytoplankton and ending with large marine mammals and fish.\nOther illustrations were done to illustrate these processes:"
   },
   {
     "objectID": "Illustration/Projet_maternelles/Maternelles_phyto.html#about-this-illustration",
@@ -273,10 +217,17 @@
     "text": "About this illustration\nThis illustration was done in the context of a project called “Forms and colors of plankton” built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.\nThis project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Children were given a presentation about planktonic organisms as well as multiple exercises to work on forms and colors using phytoplanktonic organisms as examples for square, triangle, circle and rectangle."
   },
   {
-    "objectID": "Illustration/Projet_maternelles/Maternelles.html#about-this-illustration",
-    "href": "Illustration/Projet_maternelles/Maternelles.html#about-this-illustration",
-    "title": "Forms and colors of plankton - Zooplankton",
+    "objectID": "Illustration/Logo/logo.html#about-this-illustration",
+    "href": "Illustration/Logo/logo.html#about-this-illustration",
+    "title": "Website logo",
     "section": "About this illustration",
-    "text": "About this illustration\nThis illustration was done in the context of a project called “Forms and colors of plankton” built in collaboration with Sakina-Dorothée Ayata, Associate Professor at Sorbonne University and at LOCEAN (Laboratory of Oceanography and Climate), and holder of a scientific mediation chair at the French University Institute.\nThis project was done in partnership with the Parisian Porte Dorée Tropical Aquarium, the Paris Academy and the Patay kindergarten school. Two sessions were done at the school with all the classes. The first one was done in January 2025 with exercises sheets designed for this project and focused on coloring and counting. The second session in May 2025 was done using news exercise sheets around counting. A board game was specifically designed for this project, using 3D printed organisms. Bonus coloring sheets were distributed.\n\n \n\nOther illustrations were done to illustrate these processes:"
+    "text": "About this illustration\nThis logo was created with my scientific studies in mind with the wave representing marine studies, the network for data management and machine learning and my initials."
+  },
+  {
+    "objectID": "coding.html",
+    "href": "coding.html",
+    "title": "Welcome to My Coding Corner!",
+    "section": "",
+    "text": "Here you’ll find a collection of projects covering various coding topics. Feel free to explore the posts below, use the category filters to find specific topics, or sort by date to see my latest work. Happy coding!"
   }
 ]
