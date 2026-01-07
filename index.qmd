@@ -32,13 +32,11 @@ css: styles.css
 
 <li>Statistical Habitat Modeling</li>
 
-<li>Data Analysis and Programming (R, Python)</li>
+<li>Data Analysis and Programming (R, Python, Matlab)</li>
+
+<li>Scientific Illustration and Visual Communication</li>
 
 <li>Quantitative in situ imaging (UVP, ZooScan, Planktoscope)</li>
-
-<li>Oceanographic Data Processing</li>
-
-<li>Scientific Writing & Communication</li>
 
 </ul>
 
@@ -53,13 +51,9 @@ css: styles.css
 
 <li>Biodiversity and Ecosystem Functioning</li>
 
-<li>Visual Science Communication</li>
+<li>Science Outreach and Public Engagement</li>
 
-<li>Arts & Crafts</li>
-
-<li>Plants, lots of plants</li>
-
-<li>Learning New Skills</li>
+<li>Urban sketching and plein air art</li>
 
 </ul>
 

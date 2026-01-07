@@ -1,0 +1,47 @@
+---
+title: "Long-term Plankton and Environmental Monitoring Dataset from the Iroise Marine Natural Park"
+description: "A 14-year imaging and monitoring dataset revealing plankton community dynamics in France's first marine protected area"
+author: "Laetitia Drago"
+date: "2025-11-27"
+categories: [R, Academic, "Data Paper"]
+image: "./fig01.png"
+toc: true
+---
+
+Dataset published on <a href="https://www.seanoe.org/data/00943/105465/">SEANOE</a> | <a href="https://doi.org/10.5194/essd-17-6583-2025">Paper in Earth Syst. Sci. Data</a>
+
+## Overview
+
+14-year monitoring (2010–2023) of phytoplankton and zooplankton communities in the Iroise Marine Natural Park, France's first marine protected area. Combines traditional microscopy with ZooScan imaging and environmental measurements across two coastal-to-offshore transects and three coastal stations.
+
+![](./fig01.png){width="60%"}
+
+::: {.caption}
+Sampling zone in the Iroise Marine Natural Park (Figure 1 of the paper).
+:::
+
+## What's Included
+
+- **Phytoplankton**: 785 samples, 573 taxa identified to species/genus level
+- **Zooplankton**: 650 samples, 655,930 individual images, 103 taxonomic/morphological groups with abundances and biovolumes
+- **Environment**: Temperature and salinity at surface and bottom
+
+![](./fig03.png){width="60%"}
+
+::: {.caption}
+Examples of planktonic organisms imaged by the ZooScan for the 20 most abundant taxa (Figure 3 of the paper).
+:::
+
+## Key Findings
+
+Remarkable temporal and spatial variability in phytoplankton. Clear coastal-offshore zooplankton gradients with highest concentrations in coastal stations. Community structure remained stable across the study period.
+
+## Why This Matters
+
+This dataset addresses a significant gap in plankton monitoring for the Iroise region. While other French coastal monitoring programs exist (SOMLIT, REPHY, PELGAS), none provide comparable spatial and temporal coverage of both plankton groups simultaneously within a protected marine area.
+
+Combines phytoplankton and zooplankton with high taxonomic resolution, enabling trait-based analyses. Critical for understanding ecosystem responses to environmental change and supporting fisheries management in a region central to France's sardine industry.
+
+## Perspectives
+
+The dataset opens opportunities for investigating seasonal patterns in plankton community composition, modeling ecosystem responses to environmental gradients, and developing machine learning applications for plankton classification. The individual zooplankton images are particularly valuable for future trait-based studies linking morphological diversity to ecosystem functioning and carbon cycling.

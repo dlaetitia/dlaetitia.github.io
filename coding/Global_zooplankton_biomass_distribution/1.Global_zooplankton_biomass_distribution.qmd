@@ -2,7 +2,7 @@
 title: "Global Zooplankton Biomass Distribution"
 description: "Analyzing and visualizing global zooplankton biomass patterns using R"
 author: "Laetitia Drago"
-date: "2024-09-27"
+date: "2022-08-09"
 categories: [R, Academic, "Paper with Code"]
 image: "./fmars-09-894372-g011.jpg"
 toc: true
@@ -17,6 +17,13 @@ This paper can be found <a href="https://www.frontiersin.org/journals/marine-sci
 
 ## Key Findings
 1. **Global Biomass Estimate**: The total zooplankton biomass in the upper 500m of the ocean was estimated at 0.403 Pg with an estimated 0.229 PgC for the epipelagic layer (0-200 m) and 0.173 PgC for the mesopelagic layer (200-500 m).
+
+![](./fmars-09-894372-g011.jpg){width="60%"}
+
+::: {.caption}
+Distribution map of the predicted minimum global biomass between 0 and 500m (Figure 11 of the paper).
+:::
+
 
 2. **Dominant Groups**:
    - Copepoda: 35.7% of total biomass

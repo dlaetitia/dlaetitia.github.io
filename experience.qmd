@@ -14,8 +14,9 @@ LOCEAN Laboratory, Paris
 Funding: <a href="https://neccton.eu/" target="_blank">NECCTON Horizon Europe project</a>
 
 -   Spatial Distribution of Taxonomic and Functional Diversity of Zooplankton in the Iroise Sea Marine Park (<a href="https://parc-marin-iroise.fr/" target="_blank">PNMI</a>)
--   Use of quantitative imaging data (Zooscan), metabarcoding, environmental data and machine learning techniques
--   Investigation of the relationship between functional diversity and environmental factors
+-   Use of quantitative imaging data (Zooscan), environmental data and machine learning techniques
+-   Investigation of the relationship between plankton diversity (taxonomic and morphological) and environmental factors
+
 :::::
 
 ::::: experience-item

@@ -1,0 +1,26 @@
+---
+title: "Predicting Plankton Diversity with Machine Learning"
+description: "Using BRT models to explore relationships between plankton communities and oceanographic variables"
+author: "Laetitia Drago"
+date: "2025-12-15"
+categories: [R, Machine Learning]
+image: "./ML_illustration.png"
+toc: true
+---
+
+## Overview 
+Can operational ocean models (CMEMS) predict plankton diversity in the Iroise Marine Natural Park? This analysis combines 14 years of in situ monitoring with machine learning to identify environmental drivers of community structure.
+
+Code and its description are available on <a href="https://github.com/neccton-algo/PNMI_ML/tree/main/scripts" target="_blank">GitHub</a>.
+
+These explorations were done in the context of the <a href="https://neccton.eu/" target="_blank">NECCTON project</a>.
+
+## Questions
+
+Which oceanographic variables best explain plankton diversity? How do environmental drivers differ between phytoplankton and zooplankton? Can operational models predict local diversity? What is the relative importance of physical versus biogeochemical drivers?
+
+## Methods
+
+Diversity indices were computed from zooplankton and phytoplankton abundance tables, grouped by station and date. In situ diversity metrics were merged with CMEMS data by matching station and sampling date. Analyses were conducted at multiple taxonomic levels (classes, species and genus) and depths (surface and bottom) to capture community patterns across different scales.
+
+XGBoost models were trained to predict each diversity index from oceanographic predictors. Model performance was evaluated using standard machine learning metrics including RMSE, R², and mean absolute error. Variable importance scores were extracted to rank environmental drivers.
