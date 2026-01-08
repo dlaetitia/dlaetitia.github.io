@@ -7,3 +7,5 @@ github_website.Rproj
 Illustration/large_images/
 
 /.quarto/
+
+**/*.quarto_ipynb

@@ -22,8 +22,11 @@ website:
       - text: Illustration
         href: illustration.qmd
     right:
-      - text: "{{< iconify academicons:cv-square >}}"
-        href: "documents/CV.pdf"
+      - text: "EN {{< iconify academicons:cv-square >}}"
+        href: "documents/CV_Laetitia_Drago_EN.pdf"
+        target: _blank
+      - text: "FR {{< iconify academicons:cv-square >}}"
+        href: "documents/CV_Laetitia_Drago_FR.pdf"
         target: _blank
       - text: "{{< iconify octicon:mark-github-16 >}}"
         href: "https://github.com/dlaetitia"
