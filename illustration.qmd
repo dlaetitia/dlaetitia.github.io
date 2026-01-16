@@ -25,7 +25,7 @@ format:
 
 <div class="gallery-item">
   <a href="./Illustration/Projet_maternelles/Maternelles.qmd">
-    <img src="./Illustration/Projet_maternelles/Zooplankton.png" alt="Zooplanktonic organisms">
+    <img src="./Illustration/Projet_maternelles/game.jpg" alt="Zooplanktonic organisms">
     <div class="caption">Zooplanktonic organisms</div>
   </a>
 </div>
